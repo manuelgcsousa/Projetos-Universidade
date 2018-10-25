@@ -1,0 +1,7 @@
+node 1 filter 2 < 3
+node 2 filter 2 < 1
+node 3 const 10
+connect 1 2 3
+disconnect 1 2
+inject 1 t ola
+
