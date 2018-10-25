@@ -3,14 +3,14 @@
 
 <ul>
   <li>
-    1º Ano
+    <b>1º Ano</b>
     <ul>
       <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-LI1">Laboratórios de Informática I (1º Semestre)</a></li>
       <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-LI2">Laboratórios de Informática II (2º Semestre)</a></li>
     </ul>
   </li>
   <li>
-    2º Ano
+    <b>2º Ano</b>
     <ul>
       <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-CP">Cálculo de Programas (2º Semestre)</a></li>
       <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-LI3">Laboratórios de Informática III (2º Semestre)</a></li>
@@ -19,7 +19,7 @@
     </ul>
   </li>
   <li>
-    3º Ano
+    <b>3º Ano</b>
     <ul>
       <li>Bases de Dados (1º Semestre)</li>
       <li>Desenvolvimento de Sistemas de Software (1º Semestre)</li>
