@@ -5,7 +5,7 @@
   <li>
     1º Ano
     <ul>
-      <li>Laboratórios de Informática I (1º Semestre)</li>
+      <li><a href="www.youtube.com">Laboratórios de Informática I (1º Semestre)</a></li>
       <li>Laboratórios de Informática II (2º Semestre)</li>
     </ul>
   </li>
