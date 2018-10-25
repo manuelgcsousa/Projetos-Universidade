@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Carros_Ligeiros_comReservas
+comment1.params=
+comment1.target=Carros_Ligeiros_comReservas()
+comment2.params=cl
+comment2.target=Carros_Ligeiros_comReservas(Carros_Ligeiros_comReservas)
+comment3.params=matricula\ condutor\ velMedia\ precoKm\ factorFiabilidade\ totalFaturado\ coords\ viagensEfetuadas\ reservas
+comment3.target=Carros_Ligeiros_comReservas(java.lang.String,\ Motorista,\ double,\ double,\ double,\ double,\ Ponto2D,\ java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=
+comment4.target=java.util.ArrayList\ getReservas()
+comment5.params=reservas
+comment5.target=void\ setReservas(java.util.List)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=umCarro
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=Carros_Ligeiros_comReservas\ clone()
+numComments=9

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Carros_Ligeiros
+comment1.params=
+comment1.target=Carros_Ligeiros()
+comment2.params=cl
+comment2.target=Carros_Ligeiros(Carros_Ligeiros)
+comment3.params=matricula\ condutor\ velMedia\ precoKm\ factorFiabilidade\ totalFaturado\ coords\ viagensEfetuadas
+comment3.target=Carros_Ligeiros(java.lang.String,\ Motorista,\ double,\ double,\ double,\ double,\ Ponto2D,\ java.util.ArrayList)
+comment4.params=
+comment4.target=double\ preco()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=umCarro
+comment6.target=boolean\ equals(java.lang.Object)
+comment7.params=
+comment7.target=Carros_Ligeiros\ clone()
+numComments=8

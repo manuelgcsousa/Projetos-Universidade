@@ -1,0 +1,2466 @@
+
+---- LOG - LOG ---- 
+====> ACTORES <====
+
+Coordenadas: 
+Pt2D = 9.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 15.07
+Preço da Viagem Real: 15.07
+Nota: 4
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 15
+Password: cliente15
+Morada: Leiria
+Data de Nascimento: 1/2/1985É especifico?false
+
+Coordenadas: 
+Pt2D = 4.0, 3.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente18
+Password: cliente18
+Morada: Lisboa
+Data de Nascimento: 1/5/1987É especifico?false
+
+Coordenadas: 
+Pt2D = 90.0, 91.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 87.0, 89.0
+Coordenada de Chegada: Pt2D = 90.0, 91.0
+O taxi está proximo? false
+Distância Inicial percorrida: 118.79
+Distância da Viagem: 118.79
+Preço da Viagem Estimado: 208.08
+Preço da Viagem Real: 208.08
+Nota: 1
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente12
+Password: cliente12
+Morada: Évora
+Data de Nascimento: 1/11/1992É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.99
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista3
+Password: motorista3
+Morada: Penafiel
+Data de Nascimento: 1/4/1982
+
+Coordenadas: 
+Pt2D = 2.0, 2.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 10.0, 11.0
+Coordenada de Chegada: Pt2D = 2.0, 2.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.9
+Distância da Viagem: 9.9
+Preço da Viagem Estimado: 32.91
+Preço da Viagem Real: 32.91
+Nota: 3
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente8
+Password: cliente8
+Morada: Portalegre
+Data de Nascimento: 1/7/1984É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 5.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 10.0
+Coordenada de Chegada: Pt2D = 3.0, 5.0
+O taxi está proximo? false
+Distância Inicial percorrida: 13.45
+Distância da Viagem: 13.45
+Preço da Viagem Estimado: 36.15
+Preço da Viagem Real: 36.15
+Nota: 7
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente5
+Password: cliente5
+Morada: Geres
+Data de Nascimento: 1/4/1994É especifico?false
+
+Coordenadas: 
+Pt2D = 7.0, 8.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente20
+Password: cliente20
+Morada: Braga
+Data de Nascimento: 1/7/1991É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 4.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 3.0, 4.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 7.6
+Preço da Viagem Real: 7.6
+Nota: 5
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente1
+Password: cliente1
+Morada: Vila das Aves
+Data de Nascimento: 1/12/1990É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 32.56
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista4
+Password: motorista4
+Morada: Marco de Canaveses
+Data de Nascimento: 1/5/1983
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista10
+Password: motorista10
+Morada: Vila Real
+Data de Nascimento: 1/11/1989
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 19.12
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 4Actor: 
+Nome: Motorista1
+Password: motorista1
+Morada: Porto
+Data de Nascimento: 1/2/1980
+
+Coordenadas: 
+Pt2D = 9.0, 8.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 2.0, 4.0
+Coordenada de Chegada: Pt2D = 9.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 31.78
+Preço da Viagem Real: 31.78
+Nota: 10
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente10
+Password: cliente10
+Morada: Guarda
+Data de Nascimento: 1/9/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 3.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 16
+Password: cliente16
+Morada: Aveiro
+Data de Nascimento: 1/3/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente13
+Password: cliente13
+Morada: Beja
+Data de Nascimento: 1/12/1993É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 9.15
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista6
+Password: motorista6
+Morada: Santo Tirso
+Data de Nascimento: 1/7/1985
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista9
+Password: motorista9
+Morada: Ermesinde
+Data de Nascimento: 1/10/1988
+
+Coordenadas: 
+Pt2D = 10.0, 11.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 10.0, 11.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 25.28
+Preço da Viagem Real: 25.28
+Nota: 0
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente3
+Password: cliente3
+Morada: Agualonga
+Data de Nascimento: 1/2/1992É especifico?false
+
+Coordenadas: 
+Pt2D = 4.0, 1.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 1.0
+O taxi está proximo? false
+Distância Inicial percorrida: 8.6
+Distância da Viagem: 8.6
+Preço da Viagem Estimado: 27.2
+Preço da Viagem Real: 27.2
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente6
+Password: cliente6
+Morada: Régua
+Data de Nascimento: 1/5/1995É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 120.21
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista5
+Password: motorista5
+Morada: Famalicão
+Data de Nascimento: 1/6/1984
+
+Coordenadas: 
+Pt2D = 32.0, 31.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 14.0, 34.0
+Coordenada de Chegada: Pt2D = 32.0, 31.0
+O taxi está proximo? false
+Distância Inicial percorrida: 25.71
+Distância da Viagem: 25.71
+Preço da Viagem Estimado: 87.92
+Preço da Viagem Real: 87.92
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente9
+Password: cliente9
+Morada: Castelo Branco
+Data de Nascimento: 1/8/1985É especifico?false
+
+Coordenadas: 
+Pt2D = 9.0, 10.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente19
+Password: cliente19
+Morada: Famaligato
+Data de Nascimento: 1/6/1990É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista8
+Password: motorista8
+Morada: Travagem
+Data de Nascimento: 1/9/1987
+
+Coordenadas: 
+Pt2D = 26.0, 27.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 23.0, 25.0
+Coordenada de Chegada: Pt2D = 26.0, 27.0
+O taxi está proximo? false
+Distância Inicial percorrida: 27.2
+Distância da Viagem: 27.2
+Preço da Viagem Estimado: 61.62
+Preço da Viagem Real: 61.62
+Nota: 6
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente11
+Password: cliente11
+Morada: Viseu
+Data de Nascimento: 1/10/1991É especifico?false
+
+Coordenadas: 
+Pt2D = 5.0, 6.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 3.0
+Coordenada de Chegada: Pt2D = 5.0, 6.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.49
+Distância da Viagem: 9.49
+Preço da Viagem Estimado: 24.63
+Preço da Viagem Real: 24.63
+Nota: -1
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente7
+Password: cliente7
+Morada: Sesimbra
+Data de Nascimento: 1/6/1996É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.07
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista7
+Password: motorista7
+Morada: Braga
+Data de Nascimento: 1/8/1986
+
+Coordenadas: 
+Pt2D = 1.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 12.0, 3.0
+Coordenada de Chegada: Pt2D = 1.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 12.37
+Distância da Viagem: 12.37
+Preço da Viagem Estimado: 49.8
+Preço da Viagem Real: 49.8
+Nota: 4
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente4
+Password: cliente4
+Morada: Reguenga
+Data de Nascimento: 1/3/1993É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente17
+Password: cliente17
+Morada: Bragança
+Data de Nascimento: 1/4/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 9.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 14
+Password: cliente14
+Morada: Faro
+Data de Nascimento: 1/1/1995É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 5.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 24.11
+Preço da Viagem Real: 24.11
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente2
+Password: cliente2
+Morada: Vila das Aves
+Data de Nascimento: 1/1/1992É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 45.97
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista2
+Password: motorista2
+Morada: Lisboa
+Data de Nascimento: 1/3/1981
+====> TAXIS <====
+
+-> Carros Ligeiros: 
+Taxi: 
+Matrícula: 01-AA-11
+Velocidade Média: 60.0
+Preco por Km: 1.5
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 84.25
+Coordenadas: Pt2D = 7.0, 8.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 3.0, 4.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 7.6
+Preço da Viagem Real: 7.6
+Nota: 5
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 10.0, 11.0
+Coordenada de Chegada: Pt2D = 2.0, 2.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.9
+Distância da Viagem: 9.9
+Preço da Viagem Estimado: 32.91
+Preço da Viagem Real: 32.91
+Nota: 3
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 15.07
+Preço da Viagem Real: 15.07
+Nota: 4
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 02-BB-22
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 203.97
+Coordenadas: Pt2D = 3.0, 3.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 5.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 24.11
+Preço da Viagem Real: 24.11
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 14.0, 34.0
+Coordenada de Chegada: Pt2D = 32.0, 31.0
+O taxi está proximo? false
+Distância Inicial percorrida: 25.71
+Distância da Viagem: 25.71
+Preço da Viagem Estimado: 87.92
+Preço da Viagem Real: 87.92
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 03-CC-33
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 67.24000000000001
+Coordenadas: Pt2D = 8.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 10.0, 11.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 25.28
+Preço da Viagem Real: 25.28
+Nota: 0
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 2.0, 4.0
+Coordenada de Chegada: Pt2D = 9.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 31.78
+Preço da Viagem Real: 31.78
+Nota: 10
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 04-DD-44
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 176.54
+Coordenadas: Pt2D = 4.0, 3.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 12.0, 3.0
+Coordenada de Chegada: Pt2D = 1.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 12.37
+Distância da Viagem: 12.37
+Preço da Viagem Estimado: 49.8
+Preço da Viagem Real: 49.8
+Nota: 4
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 23.0, 25.0
+Coordenada de Chegada: Pt2D = 26.0, 27.0
+O taxi está proximo? false
+Distância Inicial percorrida: 27.2
+Distância da Viagem: 27.2
+Preço da Viagem Estimado: 61.62
+Preço da Viagem Real: 61.62
+Nota: 6
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 05-EE-55
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 448.58000000000004
+Coordenadas: Pt2D = 9.0, 10.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 10.0
+Coordenada de Chegada: Pt2D = 3.0, 5.0
+O taxi está proximo? false
+Distância Inicial percorrida: 13.45
+Distância da Viagem: 13.45
+Preço da Viagem Estimado: 36.15
+Preço da Viagem Real: 36.15
+Nota: 7
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 87.0, 89.0
+Coordenada de Chegada: Pt2D = 90.0, 91.0
+O taxi está proximo? false
+Distância Inicial percorrida: 118.79
+Distância da Viagem: 118.79
+Preço da Viagem Estimado: 208.08
+Preço da Viagem Real: 208.08
+Nota: 1
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 06-FF-66
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 45.51
+Coordenadas: Pt2D = 8.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 1.0
+O taxi está proximo? false
+Distância Inicial percorrida: 8.6
+Distância da Viagem: 8.6
+Preço da Viagem Estimado: 27.2
+Preço da Viagem Real: 27.2
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 07-GG-77
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 33.239999999999995
+Coordenadas: Pt2D = 9.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 3.0
+Coordenada de Chegada: Pt2D = 5.0, 6.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.49
+Distância da Viagem: 9.49
+Preço da Viagem Estimado: 24.63
+Preço da Viagem Real: 24.63
+Nota: -1
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 08-HH-88
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+
+
+-> Carrinhas: 
+-> Carrinha: 
+Taxi: 
+Matrícula: 09-II-99
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Lista de Reservas: []
+
+-> Carrinhas: 
+-> Carrinha: 
+Taxi: 
+Matrícula: 10-JJ-00
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Lista de Reservas: []
+====> MOTORISTAS <====
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 19.12
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 4Actor: 
+Nome: Motorista1
+Password: motorista1
+Morada: Porto
+Data de Nascimento: 1/2/1980
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 45.97
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista2
+Password: motorista2
+Morada: Lisboa
+Data de Nascimento: 1/3/1981
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.99
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista3
+Password: motorista3
+Morada: Penafiel
+Data de Nascimento: 1/4/1982
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 32.56
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista4
+Password: motorista4
+Morada: Marco de Canaveses
+Data de Nascimento: 1/5/1983
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 120.21
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista5
+Password: motorista5
+Morada: Famalicão
+Data de Nascimento: 1/6/1984
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 9.15
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista6
+Password: motorista6
+Morada: Santo Tirso
+Data de Nascimento: 1/7/1985
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.07
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista7
+Password: motorista7
+Morada: Braga
+Data de Nascimento: 1/8/1986
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista8
+Password: motorista8
+Morada: Travagem
+Data de Nascimento: 1/9/1987
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista9
+Password: motorista9
+Morada: Ermesinde
+Data de Nascimento: 1/10/1988
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista10
+Password: motorista10
+Morada: Vila Real
+Data de Nascimento: 1/11/1989
+
+---- LOG - LOG ---- 
+
+---- LOG - LOG ---- 
+====> ACTORES <====
+
+Coordenadas: 
+Pt2D = 9.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 15.07
+Preço da Viagem Real: 15.07
+Nota: 4
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 15
+Password: cliente15
+Morada: Leiria
+Data de Nascimento: 1/2/1985É especifico?false
+
+Coordenadas: 
+Pt2D = 4.0, 3.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente18
+Password: cliente18
+Morada: Lisboa
+Data de Nascimento: 1/5/1987É especifico?false
+
+Coordenadas: 
+Pt2D = 90.0, 91.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 87.0, 89.0
+Coordenada de Chegada: Pt2D = 90.0, 91.0
+O taxi está proximo? false
+Distância Inicial percorrida: 118.79
+Distância da Viagem: 118.79
+Preço da Viagem Estimado: 208.08
+Preço da Viagem Real: 208.08
+Nota: 1
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente12
+Password: cliente12
+Morada: Évora
+Data de Nascimento: 1/11/1992É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.99
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista3
+Password: motorista3
+Morada: Penafiel
+Data de Nascimento: 1/4/1982
+
+Coordenadas: 
+Pt2D = 2.0, 2.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 10.0, 11.0
+Coordenada de Chegada: Pt2D = 2.0, 2.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.9
+Distância da Viagem: 9.9
+Preço da Viagem Estimado: 32.91
+Preço da Viagem Real: 32.91
+Nota: 3
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente8
+Password: cliente8
+Morada: Portalegre
+Data de Nascimento: 1/7/1984É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 5.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 10.0
+Coordenada de Chegada: Pt2D = 3.0, 5.0
+O taxi está proximo? false
+Distância Inicial percorrida: 13.45
+Distância da Viagem: 13.45
+Preço da Viagem Estimado: 36.15
+Preço da Viagem Real: 36.15
+Nota: 7
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente5
+Password: cliente5
+Morada: Geres
+Data de Nascimento: 1/4/1994É especifico?false
+
+Coordenadas: 
+Pt2D = 7.0, 8.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente20
+Password: cliente20
+Morada: Braga
+Data de Nascimento: 1/7/1991É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 4.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 3.0, 4.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 7.6
+Preço da Viagem Real: 7.6
+Nota: 5
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente1
+Password: cliente1
+Morada: Vila das Aves
+Data de Nascimento: 1/12/1990É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 32.56
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista4
+Password: motorista4
+Morada: Marco de Canaveses
+Data de Nascimento: 1/5/1983
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista10
+Password: motorista10
+Morada: Vila Real
+Data de Nascimento: 1/11/1989
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 19.12
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 4Actor: 
+Nome: Motorista1
+Password: motorista1
+Morada: Porto
+Data de Nascimento: 1/2/1980
+
+Coordenadas: 
+Pt2D = 9.0, 8.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 2.0, 4.0
+Coordenada de Chegada: Pt2D = 9.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 31.78
+Preço da Viagem Real: 31.78
+Nota: 10
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente10
+Password: cliente10
+Morada: Guarda
+Data de Nascimento: 1/9/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 3.0, 3.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 16
+Password: cliente16
+Morada: Aveiro
+Data de Nascimento: 1/3/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente13
+Password: cliente13
+Morada: Beja
+Data de Nascimento: 1/12/1993É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 9.15
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista6
+Password: motorista6
+Morada: Santo Tirso
+Data de Nascimento: 1/7/1985
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista9
+Password: motorista9
+Morada: Ermesinde
+Data de Nascimento: 1/10/1988
+
+Coordenadas: 
+Pt2D = 10.0, 11.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 10.0, 11.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 25.28
+Preço da Viagem Real: 25.28
+Nota: 0
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente3
+Password: cliente3
+Morada: Agualonga
+Data de Nascimento: 1/2/1992É especifico?false
+
+Coordenadas: 
+Pt2D = 4.0, 1.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 1.0
+O taxi está proximo? false
+Distância Inicial percorrida: 8.6
+Distância da Viagem: 8.6
+Preço da Viagem Estimado: 27.2
+Preço da Viagem Real: 27.2
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente6
+Password: cliente6
+Morada: Régua
+Data de Nascimento: 1/5/1995É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 120.21
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista5
+Password: motorista5
+Morada: Famalicão
+Data de Nascimento: 1/6/1984
+
+Coordenadas: 
+Pt2D = 32.0, 31.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 14.0, 34.0
+Coordenada de Chegada: Pt2D = 32.0, 31.0
+O taxi está proximo? false
+Distância Inicial percorrida: 25.71
+Distância da Viagem: 25.71
+Preço da Viagem Estimado: 87.92
+Preço da Viagem Real: 87.92
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente9
+Password: cliente9
+Morada: Castelo Branco
+Data de Nascimento: 1/8/1985É especifico?false
+
+Coordenadas: 
+Pt2D = 9.0, 10.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente19
+Password: cliente19
+Morada: Famaligato
+Data de Nascimento: 1/6/1990É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista8
+Password: motorista8
+Morada: Travagem
+Data de Nascimento: 1/9/1987
+
+Coordenadas: 
+Pt2D = 26.0, 27.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 23.0, 25.0
+Coordenada de Chegada: Pt2D = 26.0, 27.0
+O taxi está proximo? false
+Distância Inicial percorrida: 27.2
+Distância da Viagem: 27.2
+Preço da Viagem Estimado: 61.62
+Preço da Viagem Real: 61.62
+Nota: 6
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente11
+Password: cliente11
+Morada: Viseu
+Data de Nascimento: 1/10/1991É especifico?false
+
+Coordenadas: 
+Pt2D = 5.0, 6.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 3.0
+Coordenada de Chegada: Pt2D = 5.0, 6.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.49
+Distância da Viagem: 9.49
+Preço da Viagem Estimado: 24.63
+Preço da Viagem Real: 24.63
+Nota: -1
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente7
+Password: cliente7
+Morada: Sesimbra
+Data de Nascimento: 1/6/1996É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.07
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista7
+Password: motorista7
+Morada: Braga
+Data de Nascimento: 1/8/1986
+
+Coordenadas: 
+Pt2D = 1.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 12.0, 3.0
+Coordenada de Chegada: Pt2D = 1.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 12.37
+Distância da Viagem: 12.37
+Preço da Viagem Estimado: 49.8
+Preço da Viagem Real: 49.8
+Nota: 4
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente4
+Password: cliente4
+Morada: Reguenga
+Data de Nascimento: 1/3/1993É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente17
+Password: cliente17
+Morada: Bragança
+Data de Nascimento: 1/4/1986É especifico?false
+
+Coordenadas: 
+Pt2D = 9.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente 14
+Password: cliente14
+Morada: Faro
+Data de Nascimento: 1/1/1995É especifico?false
+
+Coordenadas: 
+Pt2D = 8.0, 9.0Taxi :Taxi: 
+Matrícula: 
+Velocidade Média: 0.0
+Preco por Km: 0.0
+Factor de Fiabilidade: 0.0
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Viagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 5.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 24.11
+Preço da Viagem Real: 24.11
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+Actor: 
+Nome: Cliente2
+Password: cliente2
+Morada: Vila das Aves
+Data de Nascimento: 1/1/1992É especifico?false
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 45.97
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista2
+Password: motorista2
+Morada: Lisboa
+Data de Nascimento: 1/3/1981
+====> TAXIS <====
+
+-> Carros Ligeiros: 
+Taxi: 
+Matrícula: 01-AA-11
+Velocidade Média: 60.0
+Preco por Km: 1.5
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 84.25
+Coordenadas: Pt2D = 7.0, 8.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 3.0, 4.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 7.6
+Preço da Viagem Real: 7.6
+Nota: 5
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 10.0, 11.0
+Coordenada de Chegada: Pt2D = 2.0, 2.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.9
+Distância da Viagem: 9.9
+Preço da Viagem Estimado: 32.91
+Preço da Viagem Real: 32.91
+Nota: 3
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 15.07
+Preço da Viagem Real: 15.07
+Nota: 4
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 02-BB-22
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 203.97
+Coordenadas: Pt2D = 3.0, 3.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 5.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 7.81
+Distância da Viagem: 7.81
+Preço da Viagem Estimado: 24.11
+Preço da Viagem Real: 24.11
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 14.0, 34.0
+Coordenada de Chegada: Pt2D = 32.0, 31.0
+O taxi está proximo? false
+Distância Inicial percorrida: 25.71
+Distância da Viagem: 25.71
+Preço da Viagem Estimado: 87.92
+Preço da Viagem Real: 87.92
+Nota: 9
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 03-CC-33
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 67.24000000000001
+Coordenadas: Pt2D = 8.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 10.0, 11.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 25.28
+Preço da Viagem Real: 25.28
+Nota: 0
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 2.0, 4.0
+Coordenada de Chegada: Pt2D = 9.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 31.78
+Preço da Viagem Real: 31.78
+Nota: 10
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 04-DD-44
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 176.54
+Coordenadas: Pt2D = 4.0, 3.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 12.0, 3.0
+Coordenada de Chegada: Pt2D = 1.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 12.37
+Distância da Viagem: 12.37
+Preço da Viagem Estimado: 49.8
+Preço da Viagem Real: 49.8
+Nota: 4
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 23.0, 25.0
+Coordenada de Chegada: Pt2D = 26.0, 27.0
+O taxi está proximo? false
+Distância Inicial percorrida: 27.2
+Distância da Viagem: 27.2
+Preço da Viagem Estimado: 61.62
+Preço da Viagem Real: 61.62
+Nota: 6
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 05-EE-55
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 448.58000000000004
+Coordenadas: Pt2D = 9.0, 10.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 10.0
+Coordenada de Chegada: Pt2D = 3.0, 5.0
+O taxi está proximo? false
+Distância Inicial percorrida: 13.45
+Distância da Viagem: 13.45
+Preço da Viagem Estimado: 36.15
+Preço da Viagem Real: 36.15
+Nota: 7
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 87.0, 89.0
+Coordenada de Chegada: Pt2D = 90.0, 91.0
+O taxi está proximo? false
+Distância Inicial percorrida: 118.79
+Distância da Viagem: 118.79
+Preço da Viagem Estimado: 208.08
+Preço da Viagem Real: 208.08
+Nota: 1
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 06-FF-66
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 45.51
+Coordenadas: Pt2D = 8.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 1.0
+O taxi está proximo? false
+Distância Inicial percorrida: 8.6
+Distância da Viagem: 8.6
+Preço da Viagem Estimado: 27.2
+Preço da Viagem Real: 27.2
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Carrinha: 
+Taxi: 
+Matrícula: 07-GG-77
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 33.239999999999995
+Coordenadas: Pt2D = 9.0, 9.0
+Viagens Efetuadas com o Taxi: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 9.0, 3.0
+Coordenada de Chegada: Pt2D = 5.0, 6.0
+O taxi está proximo? false
+Distância Inicial percorrida: 9.49
+Distância da Viagem: 9.49
+Preço da Viagem Estimado: 24.63
+Preço da Viagem Real: 24.63
+Nota: -1
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017, 
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]
+
+
+-> Motos: 
+Taxi: 
+Matrícula: 08-HH-88
+Velocidade Média: 80.0
+Preco por Km: 2.0
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+
+
+-> Carrinhas: 
+-> Carrinha: 
+Taxi: 
+Matrícula: 09-II-99
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Lista de Reservas: []
+
+-> Carrinhas: 
+-> Carrinha: 
+Taxi: 
+Matrícula: 10-JJ-00
+Velocidade Média: 50.0
+Preco por Km: 1.7
+Factor de Fiabilidade: 0.5647769794071017
+Total Faturado: 0.0
+Coordenadas: Pt2D = 0.0, 0.0
+Viagens Efetuadas com o Taxi: []
+Lista de Reservas: []
+====> MOTORISTAS <====
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 19.12
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 2.0
+Coordenada de Chegada: Pt2D = 7.0, 8.0
+O taxi está proximo? false
+Distância Inicial percorrida: 10.63
+Distância da Viagem: 10.63
+Preço da Viagem Estimado: 28.67
+Preço da Viagem Real: 28.67
+Nota: 9
+Motorista: motorista1@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 4Actor: 
+Nome: Motorista1
+Password: motorista1
+Morada: Porto
+Data de Nascimento: 1/2/1980
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 45.97
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 1.0, 1.0
+Coordenada de Chegada: Pt2D = 3.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 43.14
+Distância da Viagem: 43.14
+Preço da Viagem Estimado: 91.94
+Preço da Viagem Real: 91.94
+Nota: 5
+Motorista: motorista2@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista2
+Password: motorista2
+Morada: Lisboa
+Data de Nascimento: 1/3/1981
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.99
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 6.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.83
+Distância da Viagem: 2.83
+Preço da Viagem Estimado: 10.18
+Preço da Viagem Real: 10.18
+Nota: 6
+Motorista: motorista3@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista3
+Password: motorista3
+Morada: Penafiel
+Data de Nascimento: 1/4/1982
+
+-> Motorista: 
+Cumprimento do Horário: 156.47769794071016
+Classificação do Motorista 0
+Km's Realizados: 32.56
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 5.0
+Coordenada de Chegada: Pt2D = 4.0, 3.0
+O taxi está proximo? false
+Distância Inicial percorrida: 29.73
+Distância da Viagem: 29.73
+Preço da Viagem Estimado: 65.12
+Preço da Viagem Real: 65.12
+Nota: 7
+Motorista: motorista4@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista4
+Password: motorista4
+Morada: Marco de Canaveses
+Data de Nascimento: 1/5/1983
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 120.21
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 8.0
+Coordenada de Chegada: Pt2D = 9.0, 10.0
+O taxi está proximo? false
+Distância Inicial percorrida: 117.38
+Distância da Viagem: 117.38
+Preço da Viagem Estimado: 204.35
+Preço da Viagem Real: 204.35
+Nota: 9
+Motorista: motorista5@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 3Actor: 
+Nome: Motorista5
+Password: motorista5
+Morada: Famalicão
+Data de Nascimento: 1/6/1984
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 9.15
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 6.0, 7.0
+Coordenada de Chegada: Pt2D = 8.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 6.32
+Distância da Viagem: 6.32
+Preço da Viagem Estimado: 18.31
+Preço da Viagem Real: 18.31
+Nota: 2
+Motorista: motorista6@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista6
+Password: motorista6
+Morada: Santo Tirso
+Data de Nascimento: 1/7/1985
+
+-> Motorista: 
+Cumprimento do Horário: 156.4776979407102
+Classificação do Motorista 0
+Km's Realizados: 5.07
+Está disponivel? trueViagens Efetuadas: [
+-> Viagem: 
+Coordenadas de Partida: Pt2D = 7.0, 7.0
+Coordenada de Chegada: Pt2D = 9.0, 9.0
+O taxi está proximo? false
+Distância Inicial percorrida: 2.24
+Distância da Viagem: 2.24
+Preço da Viagem Estimado: 8.61
+Preço da Viagem Real: 8.61
+Nota: 3
+Motorista: motorista7@umer.com
+Data da Viagem: 3/6/2017]Número de Viagens Efetuadas: 2Actor: 
+Nome: Motorista7
+Password: motorista7
+Morada: Braga
+Data de Nascimento: 1/8/1986
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista8
+Password: motorista8
+Morada: Travagem
+Data de Nascimento: 1/9/1987
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista9
+Password: motorista9
+Morada: Ermesinde
+Data de Nascimento: 1/10/1988
+
+-> Motorista: 
+Cumprimento do Horário: 1.0
+Classificação do Motorista 0
+Km's Realizados: 0.0
+Está disponivel? trueViagens Efetuadas: []Número de Viagens Efetuadas: 0Actor: 
+Nome: Motorista10
+Password: motorista10
+Morada: Vila Real
+Data de Nascimento: 1/11/1989
+
+---- LOG - LOG ---- 

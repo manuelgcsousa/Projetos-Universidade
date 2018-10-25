@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ErroLogException
+comment1.params=erro
+comment1.target=ErroLogException(java.lang.String)
+numComments=2
