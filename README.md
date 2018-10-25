@@ -21,15 +21,15 @@
   <li>
     <b>3º Ano</b>
     <ul>
-      <li>Bases de Dados (1º Semestre)</li>
-      <li>Desenvolvimento de Sistemas de Software (1º Semestre)</li>
-      <li>Sistemas Distribuídos (1º Semestre)</li>
-      <li>Comunicações por Computador (2º Semestre)</li>
-      <li>Computação Gráfica (2º Semestre)</li>
-      <li>Laboratórios de Informática IV (2º Semestre)</li>
-      <li>Métodos Estocásticos de Investigação Operacional (2º Semestre)</li>
-      <li>Processamento de Linguagens (2º Semestre)</li>
-      <li>Sistemas de Representação de Conhecimento e Raciocínio (2º Semestre)</li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-BD">Bases de Dados (1º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-DSS">Desenvolvimento de Sistemas de Software (1º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-SD">Sistemas Distribuídos (1º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-CC">Comunicações por Computador (2º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-CG">Computação Gráfica (2º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-LI4">Laboratórios de Informática IV (2º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-MEIO">Métodos Estocásticos de Investigação Operacional (2º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-PL">Processamento de Linguagens (2º Semestre)</a></li>
+      <li><a href="https://github.com/MGCSousa/Projetos-Universidade/tree/master/Projeto-SRCR">Sistemas de Representação de Conhecimento e Raciocínio (2º Semestre)</a></li>
     </ul>
   </li>
 </ul>
