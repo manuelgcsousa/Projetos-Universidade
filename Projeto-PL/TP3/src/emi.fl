@@ -1,0 +1,10 @@
+%option noyywrap yylineno
+
+%%
+emigrante                { return EMIGRANTE; }
+operacao                 { return OPERACAO;  }
+[{};]                    { return yytext[0]; }
+([a-zA-Z0-9]|ã|õ|ç|é)+   { yylval.s = strdup(yytext); return STR; }
+[ \n\t&\/\(\)'.]         { }
+.                        { yyerror("Invalid char\n"); }
+%%

@@ -1,0 +1,81 @@
+\documentclass{report}
+\usepackage[portuges]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[latin1]{inputenc}
+
+\usepackage{url}
+\usepackage{enumerate}
+
+
+\usepackage{xspace}
+
+\parindent=0pt
+\parskip=2pt
+
+\setlength{\oddsidemargin}{-1cm}
+\setlength{\textwidth}{18cm}
+\setlength{\headsep}{-1cm}
+\setlength{\textheight}{23cm}
+
+\def\darius{\textsf{Darius}\xspace}
+\def\antlr{\texttt{AnTLR}\xspace}
+\def\pe{\emph{Publicação}\xspace}
+
+\def\titulo#1{\section{#1}}
+\def\super#1{{\em Supervisor: #1}\\ }
+\def\area#1{{\em \'{A}rea: #1}\\[0.2cm]}
+\def\resumo{\underline{Resumo}:\\ }
+
+
+
+\title{Processamento de Linguagens (3º ano de Curso)\\ \textbf{Trabalho Prático 3}\\ Relatório de Desenvolvimento}
+\author{Carlos Pedrosa\\ (a77320) \and David Sousa\\ (a78938) \and Manuel Sousa\\ (a78869)}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Este projeto tem como principal objetivo a interação por parte dos alunos com ferramentas de apoio à programação. Neste sentido, permite assim, aumentar a capacidade destes relativamente à escrita destes relativamente à escrita de gramáticas, aprofundando o conhecimento relativamente a yacc e novamente a flex (com a necessidade da criação de um analisador léxico). Em suma, neste relatório descrevemos todos os esforços efetuados para dar resposta ao enunciado proposto. Nesse sentido, o presente relatório aborda num primeiro momento a conceção do ficheiros yacc e flex, e um segundo momento, a análise dos resultados obtidos. Destes, é de realçar a criação de um grafo utilizando a linguagem \textit{dot}.
+\end{abstract}
+
+\tableofcontents
+
+\chapter{Introdução} \label{intro}
+
+\section{Estrutura do relatório}
+O enunciado foi atribuído de acordo com o menor número de aluno de entre todos os elementos do grupo. Nesse sentido, o presente relatório debruçar-se-à sobre o trabalho número um. Primeiramente, introduziremos o problema proposto, passaremos então pela conceção da solução e por último faremos uma análise crítica a todo o trabalho elaborado. Na secção enunciada como problema proposto, apresentaremos o problema exemplificando um pouco o nos foi pedido. Na conceção da solução, iremos abordar a metodologia usada na resposta às questões enunciadas, seremos assim exaustivos na explicação das soluções que apresentamos. Por último, na análise crítica enumeraremos as dificuldades sentidas, referindo ainda, a forma como estas foram ultrapassadas.
+
+
+\chapter{Análise e Especificação} \label{ae}
+\section{Descrição informal do problema}
+O nosso problema prático aborda \textit{dot}, uma linguagem de descrição de grafos em texto puro. Nesse sentido, o enunciado propunha, através de uma análise de uma base de dados de emigrantes a construção de um grafo. Assim, deverá ser permitida uma navegação visual sobre esse repositório de conhecimento. Deverá ser permitido, ao selecionar um nodo, passar para uma página com uma página com informação sobre esse elemento. Os nodos serão de dois tipos. Um dos nodos representará os emigrantes e toda a informação referente. O outro, será referente a um operação, sendo que cada uma possui uma \textit{label} com a designação de "fez" ou "participa". Para dar resposta ao pretendido, deverá ser elaborado um gramática em \text{YACC} e o respetivo analisador léxico.
+
+
+\chapter{Conceção/desenho da Resolução}
+\section{Estruturas de Dados}
+As estruturas de dados são um modo de armazenamento e organização de dados, de modo, que podem ser usadas de forma eficiente, facilitando assim a busca e modificação. Nesse sentido, como era necessária uma estrutura de dados relativamente eficiente optamos por utilizar uma biblioteca do sistema, a \textit{GLib}. Esta pareceu-nos uma biblioteca bastante adequada pois contém uma série de estruturas já implementadas. Assim, a utilização das estruturas que envolviam a manipulação de tabelas de \text{HASH} facilitaram todo o trabalho.
+
+\section{Resolucão do enunciado}
+
+\chapter{Testes}
+\section{Testes realizados e Resultados}
+Mostram-se a seguir alguns testes feitos (valores introduzidos) e
+os respectivos resultados obtidos:
+
+
+\chapter{Conclusão} \label{concl}
+
+\appendix
+\chapter{Código do Programa}
+
+
+
+
+
+
+
+
+
+\end{document} 

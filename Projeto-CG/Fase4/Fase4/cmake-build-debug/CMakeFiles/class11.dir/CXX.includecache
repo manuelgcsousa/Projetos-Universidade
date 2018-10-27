@@ -1,0 +1,164 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/catmull.h
+math.h
+-
+
+../headers/extractCoords.h
+iostream
+-
+fstream
+-
+tuple
+-
+cfloat
+-
+structs.h
+../headers/structs.h
+
+../headers/parser.h
+iostream
+-
+string.h
+-
+tinyxml2.h
+../headers/tinyxml2.h
+structs.h
+../headers/structs.h
+
+../headers/structs.h
+iostream
+-
+vector
+-
+tuple
+-
+string.h
+-
+
+../tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/catmull.cpp
+catmull.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/catmull.h
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/extractCoords.cpp
+extractCoords.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/extractCoords.h
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/main.cpp
+math.h
+-
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+vector
+-
+tuple
+-
+IL/il.h
+-
+structs.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/structs.h
+parser.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/parser.h
+extractCoords.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/extractCoords.h
+catmull.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/catmull.h
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/parser.cpp
+parser.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/parser.h
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/structs.cpp
+structs.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/structs.h
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2/tinyxml2.cpp
+tinyxml2.h
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/generator.dir/generator.cpp.o  -o generator -lGLEW -lIL 

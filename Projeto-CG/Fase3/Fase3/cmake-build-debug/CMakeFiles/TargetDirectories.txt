@@ -1,0 +1,4 @@
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/cmake-build-debug/CMakeFiles/generator.dir
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/cmake-build-debug/CMakeFiles/cg_tp.dir

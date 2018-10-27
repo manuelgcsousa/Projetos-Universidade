@@ -1,0 +1,13 @@
+digraph G {
+	layout="circo";
+    "Pedro Rangel Henriques" -> "Daniela da Cruz" [label="31"];
+    "Pedro Rangel Henriques" -> "Maria João Varanda Pereira" [label="19"];
+    "Pedro Rangel Henriques" -> "José Carlos Ramalho" [label="13"];
+    "Pedro Rangel Henriques" -> "Maria João Varanda" [label="12"];
+    "Pedro Rangel Henriques" -> "Roberto Uzal" [label="11"];
+    "Pedro Rangel Henriques" -> "Mario Béron" [label="9"];
+    "Pedro Rangel Henriques" -> "Marjan Mernik" [label="8"];
+    "Pedro Rangel Henriques" -> "Giovani Rubert Librelotto" [label="7"];
+    "Pedro Rangel Henriques" -> "Nuno Oliveira" [label="7"];
+    "Pedro Rangel Henriques" -> "Giovani Librelotto" [label="6"];
+}

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<CleanicaFinal.Servico>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #4191f3;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.button {
+    background-color: #ff006e;
+    border: double;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+</head>
+<body>
+    <div align="left" id="mySidenav" class="sidenav">
+        <h1 style="color:red;" align="center">@ViewBag.username</h1>
+        <h5 style="color:red;" align="center">@ViewBag.email</h5>
+        <a href="@Url.Action("Index", "Cliente", new { email = ViewBag.email, username = ViewBag.username, info = "Home" }, Request.Url.Scheme)"><span>Home</span></a>
+        <a href="@Url.Action("GetServicos", "Cliente", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Serviços</span></a>
+        <a href="@Url.Action("TarefasPendentes", "Cliente", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Tarefas Pendentes</span></a>
+        <a href="@Url.Action("AlterarDados", "Cliente", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Alterar Dados</span></a>
+        <a href="" onclick="closeNav()">Fechar</a> <br /> <br />
+        <a href="@Url.Action("Index", "Home", new { }, Request.Url.Scheme)"><span>Terminar Sessão</span></a>
+    </div>
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+    <h1 align="center">Serviços Disponíveis</h1><br />
+
+    @foreach (var item in Model)
+    {
+        <p align="center">
+            <a href="@Url.Action((item.nome + "Form"), "Cliente", new { @ViewBag.email, ViewBag.username }, Request.Url.Scheme)" class="button">
+                @Html.DisplayFor(modelItem => item.nome)<br />
+                @Html.DisplayFor(modelItem => item.descricao)<br />
+                Preço Com Produtos: @Html.DisplayFor(modelItem => item.preco) €<br />
+                Preço Sem Produtos: @Html.DisplayFor(modelItem => item.precoSProduto) €<br />
+            </a> <br />
+        </p>
+    }
+
+    </body>
+</html>
+
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "300px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+</script>

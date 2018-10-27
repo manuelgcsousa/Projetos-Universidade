@@ -1,0 +1,801 @@
+Expressão: ao longo de 3
+Expressão: A mais de 1
+Expressão: A tal ponto que 1
+Expressão: cartão amarelo 2
+Expressão: Relativamente a 1
+Expressão: lanterna vermelha 1
+Expressão: palma da mão 1
+Expressão: em cadeia 1
+Expressão: pelos vistos 1
+Expressão: prata da casa 2
+Expressão: inimigo figadal 1
+Expressão: próximo de 1
+Expressão: em boa medida 1
+Expressão: De agora 1
+Expressão: no geral 1
+Expressão: À luz 1
+Expressão: em trânsito 1
+Expressão: a qual 13
+Expressão: ao contrário de 2
+Expressão: à margem 1
+Expressão: dívida pública 3
+Expressão: em cima 4
+Expressão: até mesmo 1
+Expressão: construção civil 2
+Expressão: com respeito 1
+Expressão: estado de emergência 1
+Expressão: valor patrimonial 1
+Expressão: À margem 1
+Expressão: fim de semana 4
+Expressão: a partir de 15
+Expressão: por lapso 1
+Expressão: abriam a boca 1
+Expressão: banco de dados 1
+Expressão: de relance 1
+Expressão: ao menos 1
+Expressão: dado que 4
+Expressão: uma centena de 2
+Expressão: Para além de 2
+Expressão: A cargo 1
+Expressão: Por quê 1
+Expressão: Por exemplo 2
+Expressão: de vez em quando 2
+Expressão: por fim 3
+Expressão: às vezes 1
+Expressão: ao pé 2
+Expressão: ao fundo 1
+Expressão: devido a 6
+Expressão: face 1
+Expressão: luz verde 1
+Expressão: Dentro de 1
+Expressão: fita gomada 2
+Expressão: Tudo o que 1
+Expressão: Bolsas de estudo 1
+Expressão: À maneira de 2
+Expressão: no que diz respeito 1
+Expressão: Às vezes 2
+Expressão: graças a 1
+Expressão: Por outro lado 19
+Expressão: por trás 2
+Expressão: Aos poucos 1
+Expressão: além 9
+Expressão: logo a seguir 4
+Expressão: nesta altura 1
+Expressão: por unanimidade 2
+Expressão: cultura geral 1
+Expressão: de encontro 1
+Expressão: nessa altura 1
+Expressão: em consciência 1
+Expressão: em torno de 3
+Expressão: em favor de 1
+Expressão: Em lugar 1
+Expressão: Já que 1
+Expressão: a partir 28
+Expressão: Quando não 1
+Expressão: política de austeridade 1
+Expressão: de saída 3
+Expressão: em função 6
+Expressão: aqui e ali 1
+Expressão: Em termos de 1
+Expressão: má vontade 1
+Expressão: mais do que 1
+Expressão: desde que 11
+Expressão: No que diz respeito 1
+Expressão: olhos nos olhos 1
+Expressão: A partir 1
+Expressão: tal como 16
+Expressão: das quais 3
+Expressão: Em tempo de 1
+Expressão: para além de 10
+Expressão: a propósito 3
+Expressão: de imediato 10
+Expressão: todos os 68
+Expressão: Desta vez 3
+Expressão: comércio por grosso 1
+Expressão: um lugar ao sol 1
+Expressão: por querer 1
+Expressão: Apesar de 10
+Expressão: dar corpo 3
+Expressão: Ao lado 1
+Expressão: Todos os 4
+Expressão: de outro modo 1
+Expressão: em troca 1
+Expressão: em grande parte 3
+Expressão: ainda assim 2
+Expressão: de estimação 2
+Expressão: acima de 7
+Expressão: quanto a 7
+Expressão: menos de 5
+Expressão: em seguida 2
+Expressão: lençol freático 1
+Expressão: mea culpa 1
+Expressão: ao lado de 3
+Expressão: tudo isto 1
+Expressão: No caso 3
+Expressão: de fundo 2
+Expressão: Além disso 5
+Expressão: bode expiatório 1
+Expressão: cem por cento 1
+Expressão: por aqui 3
+Expressão: Quanto a 3
+Expressão: para onde 6
+Expressão: por outro lado 4
+Expressão: em flagrante 2
+Expressão: em si 4
+Expressão: entrada livre 1
+Expressão: um pouco 14
+Expressão: pelo modo 1
+Expressão: de noite 3
+Expressão: a montante 2
+Expressão: a par 1
+Expressão: Se calhar 1
+Expressão: enquanto que 4
+Expressão: de tal forma 1
+Expressão: em claro 1
+Expressão: por cima de 1
+Expressão: por sua vez 8
+Expressão: Um pouco 1
+Expressão: de cima 1
+Expressão: ano civil 1
+Expressão: Pela primeira vez 3
+Expressão: de bolso 1
+Expressão: capital social 7
+Expressão: Em termos 1
+Expressão: já não 26
+Expressão: mais de 41
+Expressão: Novo Mundo 1
+Expressão: Por vezes 1
+Expressão: como a palma da minha mão 1
+Expressão: com vista 6
+Expressão: águas minerais 2
+Expressão: cada vez mais 21
+Expressão: a título de 1
+Expressão: nível de vida 2
+Expressão: letras garrafais 1
+Expressão: Já não 1
+Expressão: depois de amanhã 1
+Expressão: de rigor 3
+Expressão: em vão 2
+Expressão: se bem que 3
+Expressão: cada qual 1
+Expressão: de vez 1
+Expressão: todos os dias 4
+Expressão: de mais a mais 1
+Expressão: como que 1
+Expressão: nos termos 2
+Expressão: uma vez 8
+Expressão: desde há 3
+Expressão: sob pena de 1
+Expressão: à volta 10
+Expressão: outra coisa 2
+Expressão: bolsas de estudo 2
+Expressão: Defronte de 1
+Expressão: em geral 7
+Expressão: Como que 1
+Expressão: para casa 3
+Expressão: diante 1
+Expressão: Pelo contrário 3
+Expressão: Além 6
+Expressão: Tal como 5
+Expressão: De repente 1
+Expressão: da parte de 1
+Expressão: de conta 2
+Expressão: o maior número 1
+Expressão: Por muito que 1
+Expressão: Desde então 1
+Expressão: De acordo 13
+Expressão: de plano 1
+Expressão: em cheio 1
+Expressão: um a um 1
+Expressão: golpe baixo 1
+Expressão: em obras 2
+Expressão: desde logo 3
+Expressão: armas de fogo 1
+Expressão: ensino primário 1
+Expressão: os demais 1
+Expressão: de urgência 4
+Expressão: Acima de 2
+Expressão: no caso de 4
+Expressão: na qual 6
+Expressão: nem que 1
+Expressão: a granel 2
+Expressão: denominador comum 3
+Expressão: em atenção a 1
+Expressão: por diante 1
+Expressão: debaixo de 1
+Expressão: perto de 8
+Expressão: Por ordem de 1
+Expressão: o mais possível 1
+Expressão: para já 5
+Expressão: nas quais 1
+Expressão: cada um 14
+Expressão: quer dizer 4
+Expressão: Igreja católica 2
+Expressão: de tratamento 8
+Expressão: aço inoxidável 1
+Expressão: às costas 1
+Expressão: às tantas 1
+Expressão: de manhã 5
+Expressão: os quais 10
+Expressão: da qual 3
+Expressão: o povo 4
+Expressão: órgãos de comunicação social 1
+Expressão: Mais uma vez 3
+Expressão: em conta 14
+Expressão: postos de abastecimento 1
+Expressão: Com efeito 2
+Expressão: em vias de 3
+Expressão: em virtude 2
+Expressão: em exercício 1
+Expressão: Mesmo assim 2
+Expressão: por causa 8
+Expressão: referente 6
+Expressão: por volta 2
+Expressão: de quando em quando 2
+Expressão: Por enquanto 2
+Expressão: Seja como for 2
+Expressão: meia dúzia 4
+Expressão: por hora 1
+Expressão: de efeito 1
+Expressão: à vista de 1
+Expressão: Pelo menos 5
+Expressão: por onde 1
+Expressão: em comparação 4
+Expressão: A menos que 1
+Expressão: de destaque 4
+Expressão: a retalho 2
+Expressão: por causa de 4
+Expressão: Ontem de manhã 1
+Expressão: agência de notícias 1
+Expressão: nem sequer 3
+Expressão: o máximo 1
+Expressão: de antemão 1
+Expressão: Acerca 1
+Expressão: a fim de 6
+Expressão: água potável 2
+Expressão: da parte 4
+Expressão: letra morta 1
+Expressão: acerca 2
+Expressão: ainda que 15
+Expressão: em curso 13
+Expressão: quedas de água 1
+Expressão: salário mínimo 1
+Expressão: em ponto 1
+Expressão: em primeiro lugar 1
+Expressão: a direito 1
+Expressão: de mistura 1
+Expressão: vinho do Porto 1
+Expressão: a exemplo 1
+Expressão: de frente 1
+Expressão: apontar o dedo 1
+Expressão: em conjunto 11
+Expressão: para com 1
+Expressão: com base em 2
+Expressão: de espaço 4
+Expressão: por via 1
+Expressão: Ao fim da tarde 2
+Expressão: Nem por isso 1
+Expressão: metro cúbico 1
+Expressão: De qualquer modo 1
+Expressão: à esquerda 1
+Expressão: Vinho do Porto 1
+Expressão: à margem de 1
+Expressão: Desta forma 4
+Expressão: à hora 1
+Expressão: tanto mais que 3
+Expressão: o melhor possível 1
+Expressão: metros quadrados 1
+Expressão: de lei 5
+Expressão: a menos 3
+Expressão: vias férreas 1
+Expressão: no meio 2
+Expressão: a tempo 8
+Expressão: Ao todo 2
+Expressão: para cima 1
+Expressão: desde já 1
+Expressão: frente a 2
+Expressão: agente secreto 2
+Expressão: junta de freguesia 1
+Expressão: frente 6
+Expressão: a fundo 1
+Expressão: opinião pública 8
+Expressão: Para já 3
+Expressão: a sério 6
+Expressão: ao qual 2
+Expressão: assim que 1
+Expressão: à porta fechada 3
+Expressão: de modo a 10
+Expressão: Tanto mais que 1
+Expressão: beco sem saída 1
+Expressão: uma boa dose 1
+Expressão: em favor 4
+Expressão: questão de tempo 1
+Expressão: visto com bons olhos 1
+Expressão: de estudo 3
+Expressão: À primeira vista 1
+Expressão: de qualquer modo 2
+Expressão: em português 2
+Expressão: postos de trabalho 9
+Expressão: a cargo 4
+Expressão: pano de fundo 1
+Expressão: poços de petróleo 1
+Expressão: em código 1
+Expressão: o que 47
+Expressão: dia a dia 3
+Expressão: revolução industrial 1
+Expressão: No dia anterior 1
+Expressão: em redor 1
+Expressão: por agora 2
+Expressão: mercado de trabalho 5
+Expressão: à medida que 1
+Expressão: de graça 4
+Expressão: de estilo 2
+Expressão: valor real 1
+Expressão: os últimos anos 1
+Expressão: luva branca 1
+Expressão: Por entre 1
+Expressão: de resto 5
+Expressão: por acaso 3
+Expressão: por um lado 4
+Expressão: para lá 2
+Expressão: aquando 1
+Expressão: produto nacional bruto 1
+Expressão: cabeça de série 1
+Expressão: casacos de peles 1
+Expressão: dezenas de 16
+Expressão: dentro de 13
+Expressão: ao longe 1
+Expressão: de marca 1
+Expressão: à beira 3
+Expressão: De resto 8
+Expressão: já que 26
+Expressão: à primeira vista 1
+Expressão: palavras de ordem 1
+Expressão: profissão de fé 1
+Expressão: Da parte 1
+Expressão: à força de 1
+Expressão: por que 8
+Expressão: ao longo 14
+Expressão: de madrugada 1
+Expressão: em termos de 9
+Expressão: do que 73
+Expressão: em dia 2
+Expressão: para além 14
+Expressão: ano que vem 1
+Expressão: Ao longo 4
+Expressão: pela qual 2
+Expressão: ponto de mira 1
+Expressão: A dois passos 1
+Expressão: golpe de misericórdia 2
+Expressão: ao encontro 2
+Expressão: a prazos 1
+Expressão: até então 2
+Expressão: ao lado 6
+Expressão: palavra de ordem 3
+Expressão: festa de arromba 1
+Expressão: para sempre 1
+Expressão: horário de trabalho 1
+Expressão: toda a gente 6
+Expressão: por cento 172
+Expressão: de peso 3
+Expressão: Quanto 29
+Expressão: glóbulos vermelhos 4
+Expressão: a mais de 2
+Expressão: apesar de 31
+Expressão: graças a Deus 1
+Expressão: no caso 10
+Expressão: quanto 20
+Expressão: quando 2
+Expressão: apesar disso 2
+Expressão: de campo 1
+Expressão: toda a 40
+Expressão: ombro a ombro 1
+Expressão: salto alto 1
+Expressão: a pé 4
+Expressão: ensino superior 7
+Expressão: bem feito 1
+Expressão: aos olhos de 1
+Expressão: assim como 6
+Expressão: lei orgânica 2
+Expressão: pequeno almoço 1
+Expressão: pedra de toque 1
+Expressão: na frente de 3
+Expressão: fiel da balança 1
+Expressão: de longe 1
+Expressão: de forma a 6
+Expressão: em público 1
+Expressão: Outra vez 1
+Expressão: Tudo isso 1
+Expressão: de pernas para o ar 1
+Expressão: de preferência 1
+Expressão: na ordem do dia 2
+Expressão: Ao invés 1
+Expressão: A partir de 4
+Expressão: por detrás de 1
+Expressão: em dinheiro 2
+Expressão: em função de 1
+Expressão: se calhar 2
+Expressão: Aqui e ali 1
+Expressão: no calor 1
+Expressão: Ao mesmo tempo 4
+Expressão: por cima 4
+Expressão: por si 6
+Expressão: por pouco não 1
+Expressão: seja quem for 1
+Expressão: de perto 2
+Expressão: ao cuidado de 1
+Expressão: Todo o 2
+Expressão: dentro em breve 1
+Expressão: fio condutor 1
+Expressão: Para lá 1
+Expressão: à conta 1
+Expressão: por vezes 7
+Expressão: Pelos vistos 1
+Expressão: cerca 6
+Expressão: o qual 10
+Expressão: de topo 1
+Expressão: no entanto 32
+Expressão: raios gama 4
+Expressão: Apesar 12
+Expressão: por maioria 1
+Expressão: de golpe 1
+Expressão: apesar 16
+Expressão: da praxe 1
+Expressão: Em seguida 2
+Expressão: acima 6
+Expressão: pelo direito 1
+Expressão: pela primeira vez 14
+Expressão: às quais 1
+Expressão: Face a 1
+Expressão: capacetes azuis 1
+Expressão: impostos de circulação 1
+Expressão: face a 2
+Expressão: quem quer que 1
+Expressão: qualquer um 1
+Expressão: pelo meio 2
+Expressão: Nem mesmo 1
+Expressão: sob o signo 1
+Expressão: desta vez 10
+Expressão: Cerca 1
+Expressão: por isso que 3
+Expressão: braço robótico 1
+Expressão: campanha eleitoral 4
+Expressão: tanto mais 1
+Expressão: em parte 6
+Expressão: em nome 5
+Expressão: o estrangeiro 2
+Expressão: De tal modo que 1
+Expressão: De memória 1
+Expressão: pois que 1
+Expressão: quando não 3
+Expressão: relativamente a 2
+Expressão: taxas de câmbio 1
+Expressão: Relativamente 2
+Expressão: Em particular 1
+Expressão: à beira de 2
+Expressão: Ainda assim 3
+Expressão: Cada vez que 1
+Expressão: dois pontos 4
+Expressão: ao mesmo tempo 10
+Expressão: virou as costas 1
+Expressão: em vez de 9
+Expressão: todo o mundo 4
+Expressão: Desde que 3
+Expressão: em tempo de 1
+Expressão: salvo seja 1
+Expressão: por parte de 1
+Expressão: ao contrário 8
+Expressão: cerca de 88
+Expressão: por escrito 1
+Expressão: de facto 5
+Expressão: por conta 2
+Expressão: bóia de salvação 1
+Expressão: guerra fria 2
+Expressão: tudo o que 16
+Expressão: de comprimento 2
+Expressão: emenda constitucional 1
+Expressão: com prazer 1
+Expressão: de modo que 1
+Expressão: o inverso 1
+Expressão: nada menos 3
+Expressão: homem da rua 1
+Expressão: em relação a 5
+Expressão: Cerca de 4
+Expressão: mais uma vez 7
+Expressão: De facto 8
+Expressão: Ou seja 3
+Expressão: quinze dias 2
+Expressão: Em contrapartida 3
+Expressão: Por sua vez 3
+Expressão: por enquanto 2
+Expressão: para a direita 1
+Expressão: além disso 3
+Expressão: agência de viagens 1
+Expressão: todo o 40
+Expressão: meia hora 3
+Expressão: em torno 8
+Expressão: de primeira 2
+Expressão: de carne e osso 2
+Expressão: De seguida 1
+Expressão: fora de 9
+Expressão: ponto de vista 13
+Expressão: de caras 1
+Expressão: boa vontade 5
+Expressão: em particular 8
+Expressão: vestido comprido 1
+Expressão: em criança 1
+Expressão: no fio 1
+Expressão: de surpresa 2
+Expressão: seres humanos 2
+Expressão: por exemplo 36
+Expressão: juntas de freguesia 1
+Expressão: dias de semana 1
+Expressão: Desde logo 2
+Expressão: bem como 23
+Expressão: balança comercial 1
+Expressão: cartões amarelos 3
+Expressão: a favor 5
+Expressão: por detrás 2
+Expressão: sem rebuço 1
+Expressão: arame farpado 1
+Expressão: pouco e pouco 1
+Expressão: quanto mais 2
+Expressão: ao natural 1
+Expressão: liberdade de imprensa 1
+Expressão: as quais 11
+Expressão: dos quais 11
+Expressão: prisão preventiva 1
+Expressão: pomo de discórdia 1
+Expressão: quanto antes 1
+Expressão: uma vez que 22
+Expressão: abaixo 6
+Expressão: ângulo recto 1
+Expressão: Outra coisa 1
+Expressão: primeiro ministro 1
+Expressão: Ao dispor 1
+Expressão: ponto final 1
+Expressão: Por fim 1
+Expressão: muito tempo 6
+Expressão: golpe de Estado 1
+Expressão: happy end 1
+Expressão: de acordo 19
+Expressão: fins de semana 1
+Expressão: Em princípio 1
+Expressão: em separado 1
+Expressão: entre si 5
+Expressão: por sinal 1
+Expressão: vaga de fundo 1
+Expressão: pontos finais 1
+Expressão: de raiz 4
+Expressão: Nessa altura 5
+Expressão: ainda quando 1
+Expressão: guerra civil 2
+Expressão: Desde há 1
+Expressão: tudo quanto 2
+Expressão: Atrás 2
+Expressão: por excelência 1
+Expressão: Fora 1
+Expressão: de morte 2
+Expressão: Se bem que 1
+Expressão: não mais 2
+Expressão: glóbulos brancos 1
+Expressão: ao máximo 2
+Expressão: à mão 2
+Expressão: em debate 2
+Expressão: trabalhos forçados 1
+Expressão: de igual para igual 1
+Expressão: romance policial 6
+Expressão: Nem sequer 2
+Expressão: A propósito 3
+Expressão: à qual 3
+Expressão: liberdade de expressão 1
+Expressão: contos de réis 1
+Expressão: placas giratórias 1
+Expressão: católico praticante 1
+Expressão: em vigor 14
+Expressão: mil e um 1
+Expressão: em nome de 3
+Expressão: Em suma 2
+Expressão: águas residuais 2
+Expressão: Tudo isto 1
+Expressão: ao ar livre 5
+Expressão: na medida em que 5
+Expressão: próximo 4
+Expressão: de prata 2
+Expressão: em princípio 2
+Expressão: sex appeal 1
+Expressão: relativamente 12
+Expressão: além de 4
+Expressão: ponto fraco 1
+Expressão: por assim dizer 1
+Expressão: em diante 1
+Expressão: via aérea 1
+Expressão: sistema solar 2
+Expressão: à custa de 1
+Expressão: corpo docente 1
+Expressão: ao vivo 2
+Expressão: na presença de 3
+Expressão: junto com 1
+Expressão: no qual 4
+Expressão: pecado original 2
+Expressão: de repente 2
+Expressão: Por via de 1
+Expressão: logo que 3
+Expressão: Além de 4
+Expressão: o todo 1
+Expressão: mais ou menos 9
+Expressão: e por aí 1
+Expressão: eis que 1
+Expressão: Seja qual for 1
+Expressão: por completo 1
+Expressão: em forma de 1
+Expressão: a propósito de 1
+Expressão: por entre 1
+Expressão: obras de arte 3
+Expressão: Às tantas 1
+Expressão: classe média 1
+Expressão: Ao que parece 2
+Expressão: Bem como 1
+Expressão: em prol 2
+Expressão: de bom grado 1
+Expressão: a fundo perdido 1
+Expressão: De qualquer forma 4
+Expressão: muitas vezes 3
+Expressão: o que quer que 2
+Expressão: Enquanto que 1
+Expressão: terra natal 2
+Expressão: O mundo inteiro 1
+Expressão: A bordo 1
+Expressão: rente 1
+Expressão: Quer dizer 1
+Expressão: na frente 2
+Expressão: mesmo assim 3
+Expressão: pelo contrário 6
+Expressão: legítima defesa 1
+Expressão: nem por isso 2
+Expressão: do qual 3
+Expressão: a menos que 1
+Expressão: todas as 44
+Expressão: A título de 2
+Expressão: Em resumo 1
+Expressão: ao passo que 3
+Expressão: Em conjunto 1
+Expressão: a ferro e fogo 1
+Expressão: em frente 5
+Expressão: batatas fritas 1
+Expressão: fina flor 1
+Expressão: mais nada 2
+Expressão: atrás 2
+Expressão: de uma assentada 1
+Expressão: perto 8
+Expressão: Ainda por cima 1
+Expressão: serviço militar 2
+Expressão: seja qual for 2
+Expressão: em face 1
+Expressão: lágrimas de crocodilo 1
+Expressão: Dentro 1
+Expressão: ao que parece 2
+Expressão: em vida 1
+Expressão: dentro 14
+Expressão: na presença 2
+Expressão: Uma vez 1
+Expressão: forças armadas 1
+Expressão: hoje à noite 1
+Expressão: homem de letras 1
+Expressão: sociedade anónima 1
+Expressão: pelo menos 32
+Expressão: mar alto 1
+Expressão: em casa 20
+Expressão: em via de 1
+Expressão: Ao contrário de 2
+Expressão: a cargo de 3
+Expressão: cordão umbilical 1
+Expressão: em breve 10
+Expressão: barra do tribunal 1
+Expressão: ser humano 1
+Expressão: desta forma 1
+Expressão: de modo algum 1
+Expressão: de volta 4
+Expressão: tudo isso 2
+Expressão: em regra 1
+Expressão: em benefício 1
+Expressão: com jeito 1
+Expressão: Jogos Olímpicos 6
+Expressão: Para além 5
+Expressão: pontos fracos 1
+Expressão: à moda 1
+Expressão: em última instância 1
+Expressão: em questão 3
+Expressão: Liberdade de imprensa 1
+Expressão: de quando em vez 1
+Expressão: de certo modo 1
+Expressão: ontem de manhã 1
+Expressão: de vista 2
+Expressão: em bloco 1
+Expressão: Por um lado 1
+Expressão: De modo a 1
+Expressão: em relação 18
+Expressão: Cada um 3
+Expressão: com vista a 3
+Expressão: custos de produção 1
+Expressão: a prumo 1
+Expressão: Logo a seguir 1
+Expressão: de um lado 2
+Expressão: a não ser que 1
+Expressão: Por causa 1
+Expressão: até que ponto 1
+Expressão: por baixo 2
+Expressão: a favor de 1
+Expressão: ainda por cima 2
+Expressão: meio ambiente 1
+Expressão: obra de referência 1
+Expressão: Em primeiro lugar 1
+Expressão: por terra 3
+Expressão: Por agora 1
+Expressão: hoje em dia 3
+Expressão: ao acaso 1
+Expressão: toda a vida 2
+Expressão: relações públicas 2
+Expressão: por parte 13
+Expressão: de força 1
+Expressão: à flor 1
+Expressão: de passagem 1
+Expressão: Assim como 1
+Expressão: passagem de nível 1
+Expressão: sociedade civil 3
+Expressão: de conta que 1
+Expressão: Todas as 3
+Expressão: rumo a 2
+Expressão: às boas 1
+Expressão: propriamente dito 1
+Expressão: ao fim da tarde 2
+Expressão: fora 12
+Expressão: ao cabo 1
+Expressão: Em vez 3
+Expressão: acerca de 2
+Expressão: em causa 22
+Expressão: Ainda que 1
+Expressão: em vez 3
+Expressão: aos olhos 2
+Expressão: de futuro 2
+Expressão: abrir mão 1
+Expressão: devido 14
+Expressão: fogos postos 1
+Expressão: de parte a parte 1
+Expressão: Orçamento do Estado 1
+Expressão: fio de água 1
+Expressão: salta ao ouvido 1
+Expressão: terra de ninguém 1
+Expressão: Em causa 1
+Expressão: no meio de 2
+Expressão: Uma centena de 1
+Expressão: à maneira 1
+Expressão: cada vez que 2
+Expressão: à mercê de 1
+Expressão: grupo de pressão 1
+Expressão: entre dois fogos 1
+Expressão: sempre que 4
+Expressão: em massa 1
+Expressão: e Silva 2
+Expressão: ida e volta 1
+Expressão: por ocasião 1
+Expressão: hoje mesmo 1
+Expressão: à razão de 1
+Expressão: para aqui 1
+Expressão: príncipe herdeiro 1
+Expressão: vêem com bons olhos 1
+Expressão: como se 14
+Expressão: por força de 1
+Expressão: de fora 6
+Expressão: modo de vida 1
+Expressão: No entanto 26
+Expressão: boletim oficial 1
+Expressão: outra vez 1
+Expressão: preço de venda 3
+Expressão: pelo qual 1
+Expressão: ou seja 5
+Expressão: de novo 17
+Expressão: em homenagem a 1
+Expressão: debaixo 4
+Expressão: no dia anterior 2
+Expressão: de agora 2

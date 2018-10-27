@@ -1,0 +1,12 @@
+\select@language {portuges}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{2}
+\contentsline {section}{\numberline {1.1}Estrutura do relat\IeC {\'o}rio}{2}
+\contentsline {chapter}{\numberline {2}An\IeC {\'a}lise e Especifica\IeC {\c c}\IeC {\~a}o}{3}
+\contentsline {section}{\numberline {2.1}Descri\IeC {\c c}\IeC {\~a}o informal do problema}{3}
+\contentsline {chapter}{\numberline {3}Conce\IeC {\c c}\IeC {\~a}o/desenho da Resolu\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {3.1}Estruturas de Dados}{4}
+\contentsline {section}{\numberline {3.2}Resoluc\IeC {\~a}o do enunciado}{4}
+\contentsline {chapter}{\numberline {4}Testes}{5}
+\contentsline {section}{\numberline {4.1}Testes realizados e Resultados}{5}
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o}{6}
+\contentsline {chapter}{\numberline {A}C\IeC {\'o}digo do Programa}{7}

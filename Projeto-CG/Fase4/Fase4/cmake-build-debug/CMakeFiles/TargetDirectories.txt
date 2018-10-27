@@ -1,0 +1,4 @@
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/CMakeFiles/generator.dir
+/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/CMakeFiles/class11.dir

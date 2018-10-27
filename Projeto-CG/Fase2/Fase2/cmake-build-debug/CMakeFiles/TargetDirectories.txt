@@ -1,0 +1,4 @@
+/home/carlos/Downloads/TrabalhoCG-2§Fase-Grupo27/Fase2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/carlos/Downloads/TrabalhoCG-2§Fase-Grupo27/Fase2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/carlos/Downloads/TrabalhoCG-2§Fase-Grupo27/Fase2/cmake-build-debug/CMakeFiles/generator.dir
+/home/carlos/Downloads/TrabalhoCG-2§Fase-Grupo27/Fase2/cmake-build-debug/CMakeFiles/cg_tp.dir

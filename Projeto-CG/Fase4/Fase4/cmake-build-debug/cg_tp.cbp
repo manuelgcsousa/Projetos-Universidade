@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cg_tp"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="generator">
+				<Option output="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug/generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/IL"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="generator/fast">
+				<Option output="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug/generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/IL"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 generator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cg_tp">
+				<Option output="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug/cg_tp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/IL"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 cg_tp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cg_tp/fast">
+				<Option output="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug/cg_tp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/System/Library/Frameworks/GLUT.framework/Headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/IL"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/headers"/>
+					<Add directory="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 cg_tp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gcsousa/CLionProjects/Computação\ Gráfica/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/extractCoords.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/extractTexturesFiles.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/generator.cpp">
+			<Option target="generator"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/main.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/parser.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/structs.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2/tinyxml2.cpp">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/tinyxml2/tinyxml2.h">
+			<Option target="cg_tp"/>
+		</Unit>
+		<Unit filename="/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-4/Fase4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

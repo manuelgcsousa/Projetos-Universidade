@@ -1,0 +1,139 @@
+Paulo Rocha >	linguateca 
+M. Mernik >	VH02 
+Mitja Lenic >	HVMLGW05 
+M.R. Henriques >	museums98 
+Jeff Gray >	HVMLGW05 
+Renato Preigschadt de Azevedo >	LPRH07 LPRH07-TM LARH09 
+Maria João Varanda >	KMHVZ04 HVMLGW05 RMHV06 RMHCV06 HKMVZ03 BHVU06a BHVU06b BHVUM06 BHVU08 BHV06 BCVHU08 OVH05 OHV06 CHV08ja CHV07 
+J.J. Almeida >	graminteractivas1990 tlc89 estruturasdedados90 Natura jspell1 Almeida94b Almeida95a Almeida94c jj95 Barbosa95 Barbosa95a BA97a Barbosa95b Ramalho95 Almeida96a Ulisses96 Almeida96b jj96 Almeida96c Ramalho96 SGML97 Almeida98 Reis98 ABNO97a ABNO97b AH97 museums98 Ramalho98 Gis99 RPA99 RSea99 xmldt99 RRAH99 Barbosa2000 jj2001x speaker:sepln2001 mp2001 alfarrabio2001 freq2002 jspell2002 dag2002 elpub2002 parguess2002 APL2k2.Parguess APL2k2.Synthesis xata:xmldt xata:museudapessoa elpub2003 cp3a:terminum2003 sepln2003 sepln2004 linguateca xata05:fs xata05:tdt xata06:navegante xata06:xmlauto 
+Daniela da Cruz >	RMHCV06 BCVHU08 CHV08ja FPCH08jb PMCH08j CHV07 CPH07f CH07g CH07h FCHV08 CHP08i CH07a CLH07c CH07d CFPBH07d CHP08a CHP08b CPH08c FPCH08d PMCH08e PMCH08f CHP09a OPCH09a FCHGD09a OPHC09a OPHCC09 MKCHCPO09 OHCP09 FCHGD09b CBHP09 cruz09 CH09d OPHCC2010 KOMPCCH2010 
+Nuno Alberto Silva >	MSH05 
+Marta Jacinto >	JGRH04 JGRH03 
+J.João Almeida >	harem:rena 
+Paulo Jorge Oliveria >	ORH09a 
+Pedro R. Henriques >	dag2002 
+Ana Pinto >	linguateca 
+Matheus C. Silveira >	LGFSSAH08 
+Belinda Maia >	linguateca 
+J. João Almeida >	sepln06 eamt06 elpub06-t2o elpub06-blind 
+M. Lenic >	VH02 
+Bruno Defude >	FCHGD09a FCHGD09b 
+Sandra Cristina Lopes >	CLH07c 
+Tiago Pedroso >	RPA99 
+Ricardo Henriques >	Gis99 
+J.B. Barros >	tlc89 estruturasdedados90 Almeida96b Barbosa2000 
+Gustavo Arnold >	ALHF02 
+Eugénio Ferreira >	epia-bio-2007 
+F. Mário Martins >	graminteractivas1990 
+Mario Ber\'on >	BHVU07d BHVU07c BHVU07b BHVU07a 
+Débora Oliveira >	linguateca 
+A. M. Simões >	speaker:sepln2001 
+Damijan Rebernak >	RMHV06 RMHCV06 RMHVC06 
+Rosário Silva >	linguateca 
+José Alves Castro >	APL2k2.Parguess 
+Pedro Rangel Henriques >	RSea99 RRH02 ORH06 RMHV06 RMHCV06 BH98 RAH98 RARH98 GRH06 JGRH04 JGRH03 GRH04 GRH05a RH98a MSH05 ALHF02 VH01 RMHVC06 BHVU07d BHVU07c BHVU07b BHVU07a CHLB07a BHVU06a BHVU06b BHVUM06 BHVU08 BHV06 BCVHU08 BUHV08 OVH05 OHV06 GH07b GH07a GFH08 FGH08 FH08 LPRH07 LPRH07-TM LRHGT08 LGFSSAH08 LMMVRH08 CHV08ja FPCH08jb PMCH08j CHV07 CPH07f CH07g CH07h CHP08i CH07a CLH07c CH07d CFPBH07d CHP08a CHP08b CPH08c FPCH08d PMCH08e PMCH08f OPCH09a FCHGD09a ORH09a LPH09a LARH09 OPHC09a OPHCC09 MKCHCPO09 OHCP09 FCHGD09b BHVU09 CBHP09 cruz09 OPHCC2010 KOMPCCH2010 
+Rui Vilela >	linguateca xata05:fs 
+Elisabete Cunha >	CHLB07a 
+Alda Lopes Gan\c{c}arski >	FGH08 FCHGD09a FCHGD09b 
+Jaime Fonseca >	ALHF02 
+Ana Silva >	Gis99 RSea99 
+Juliana Vizzotto >	LMMVRH08 
+Daniela Cruz >	RMHVC06 
+Ruben Fonseca >	FCHV08 
+Anabela Barreiro >	linguateca 
+Rogério Paulo >	FPCH08jb FPCH08d 
+Iara Augustin >	LGFSSAH08 
+José João Dias de Almeida >	tesejj 
+Leandro O. Freitas >	LGFSSAH08 
+Tomaz Kosar >	KMHVZ04 HKMVZ03 MKCHCPO09 KOMPCCH2010 
+Nuno Oliveira >	OPCH09a OPHC09a OPHCC09 OHCP09 cruz09 OPHCC2010 KOMPCCH2010 
+Maria de Fátima Rodrigues >	ORH09a 
+Alexandre Carvalho >	elpub06-blind 
+Paulo Silva >	cp3a:terminum2003 
+Alberto Simões >	mp2001 alfarrabio2001 cp3a:terminum2003 cp3a:natools2003 xata04:tx xata04:mtd xmldt2 sepln2004 linguateca xata05:fs xata05:tdt xata06:navegante xata06:xmlauto sepln06 eamt06 lrec06 elpub06-t2o avalon:jspell avalon:avalinha xata07:xmltmx MP07 epia-bio-2007 epia-music-2007 
+Xavier Gomez Guinovart >	xata04:mtd 
+Giovani Rubert Librelotto >	LPRH07 LPRH07-TM LRHGT08 LGFSSAH08 LMMVRH08 LPH09a LARH09 
+P. Henriques >	VH02 VH03 
+Isabel Rocha >	epia-bio-2007 
+J.C. Ramalho >	Ramalho95 Almeida96c Ramalho96 SGML97 museums98 Ramalho98 RRAH99 
+Jorge Gustavo Rocha >	RSea99 RARH98 
+Rúben Fonseca >	MP07 CFPBH07d 
+Nuno Oliveira  >	MKCHCPO09 
+Jorge Rocha >	Gis99 RPA99 
+Giovani Librelotto >	GRH06 JGRH04 JGRH03 GRH04 GRH05a ALHF02 
+Miguel Rocha >	epia-bio-2007 
+Roberto Uzal >	BHVU07d BHVU07c BHVU07b BHVU07a BHVU06a BHVU06b BHVUM06 BHVU08 BCVHU08 BUHV08 BHVU09 
+Eckhard Bick >	linguateca xata05:fs 
+Marcirio Chaves >	linguateca 
+Diana Santos >	linguateca 
+J. Gustavo Rocha >	mp2001 alfarrabio2001 
+Pedro Henriques >	Gis99 KMHVZ04 HVMLGW05 HKMVZ03 FCHV08 CHP09a 
+G. Montejano >	BHVUM06 
+J.L.  Faria >	museums98 
+José Castro >	cp3a:terminum2003 
+M. Jo\~ao Varanda >	BHVU07d BHVU07c BHVU07b BHVU07a 
+Alberto M. Simões >	freq2002 jspell2002 dag2002 elpub2002 parguess2002 sepln2003 
+José Carlos Ramalho >	xmldt99 RH02 RAH98 RARH98 GRH06 JGRH04 JGRH03 GRH04 GRH05a RH98a LPRH07 LPRH07-TM LRHGT08 LMMVRH08 LARH09 
+Maria João Varanda Pereira >	RMHVC06 BUHV08 PMCH08j CPH07f FCHV08 CHP08i CFPBH07d CHP08a CHP08b PMCH08e PMCH08f OPCH09a OPHC09a OPHCC09 MKCHCPO09 OHCP09 BHVU09 CBHP09 OPHCC2010 KOMPCCH2010 
+Jonas Bulegon Gassen >	LRHGT08 LGFSSAH08 
+Susana Afonso >	linguateca 
+J.G. Rocha >	SGML97 museums98 RRAH99 
+Mario Berón >	BUHV08 
+Sónia Moreira >	mp2001 
+Alberto Manuel Simões >	APL2k2.Parguess APL2k2.Synthesis xata:xmldt xata:museudapessoa elpub2003 
+L.S. Barbosa >	Barbosa95 Barbosa95a BA97a Barbosa95b Barbosa2000 
+Rafael Teodósio Pereira >	LPH09a 
+Oliveir >	oliveira09b oliveira09c 
+Luís Cabral >	linguateca 
+Alberto Simões  >	elpub06-blind 
+Hui Wu >	HVMLGW05 
+Cristina Mota >	linguateca 
+Pedro Henriques  >	CH09d 
+Pedro Rangel  Henriques >	RH02 
+Almeid >	ABBN98 
+Mario Ricardo Henriques >	RSea99 
+Luís Costa >	linguateca 
+Jorge Sousa Pinto >	CPH08c CHP09a 
+Ricardo Reis >	Reis98 
+Barbos >	ABNO97a ABNO97b 
+Carlos Ramos >	RRH02 
+Mário Béron >	CFPBH07d 
+Paulo A. Rocha >	freq2002 
+Elisabete Ferreira >	FPCH08jb FPCH08d 
+Sandra Lopes >	CHLB07a 
+M. J. Varanda >	VH01 VH02 VH03 
+Xavier Gómez Guinovart >	sepln2004 
+J. Alves de Castro >	parguess2002 
+Marjan Mernik >	KMHVZ04 HVMLGW05 RMHV06 RMHCV06 HKMVZ03 RMHVC06 PMCH08j PMCH08e PMCH08f MKCHCPO09 KOMPCCH2010 
+Bruno Martins >	cp3a:terminum2003 cp3a:kvec2003 
+Henrique Machado >	LMMVRH08 
+Matej Crepinsek >	KOMPCCH2010 
+Ulisses Pinto >	jspell1 Almeida94c Ulisses96 
+Leonor Barroca >	BH98 
+Fábio L. Silva >	LGFSSAH08 
+Flávio Xavier Ferreira >	GFH08 FGH08 FH08 FCHGD09a FCHGD09b 
+{projecto Camila} >	Camila 
+Rogério Corrêa Turchetti >	LRHGT08 
+José Almeida >	epia-bio-2007 
+Alberto Manuel Brandão Simões >	teseambs 
+Elisabete Ranchho >	linguateca 
+Paulo Oliveira >	ORH06 
+António R. Fernandes >	elpub06-blind 
+Nuno Cardoso >	linguateca 
+P. Rangel Henriques >	mp2001 alfarrabio2001 
+Viljem Zumer >	KMHVZ04 HKMVZ03 
+Eva Oliveira >	OVH05 OHV06 
+Mirkos Martins >	LMMVRH08 
+Alda Gan\c{c}arski >	GH07b GH07a GFH08 
+P.R. Henriques >	graminteractivas1990 Ramalho95 Ramalho96 SGML97 AH97 museums98 Ramalho98 RRAH99 
+Ana Frankenberg-Garcia >	linguateca 
+Kosa >	kosar09 
+Bastian Cramer >	OPHCC09 OPHCC2010 
+José João Almeida >	xata04:tx xata04:mtd lrec06 avalon:jspell avalon:avalinha xata07:xmltmx MP07 epia-music-2007 RAH98 RARH98 
+Gan\c{c}arsk >	GDH06 
+Anália Lourenço >	epia-bio-2007 epia-music-2007 
+Giovana Mendes >	MSH05 
+Mario Béron >	CHLB07a BHVU06a BHVU06b BHVUM06 BHVU08 BHV06 BCVHU08 BHVU09 CBHP09 
+F\'atima Rodrigues >	RRH02 ORH06 
+Luís Sarmento >	linguateca 
+Rachel Aires >	linguateca 

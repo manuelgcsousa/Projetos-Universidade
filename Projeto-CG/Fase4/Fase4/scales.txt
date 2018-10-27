@@ -1,0 +1,47 @@
+Sun:
+	695 700 km
+	109.1979 Earths
+
+Mercury:
+	2,439 km
+	0.3829 Earths
+	57 910 000 km
+
+Venus:
+	6,051 km
+	0.9499 Earths
+	108 200 000 km
+
+Earth:
+	6 371 km
+	149 600 000 km
+
+Mars:
+	3389.5 km
+	0.5319 Earths
+	227 900 000 km
+
+Jupiter:
+	69,911 km
+	10.9733 Earths
+	778 500 000 km
+
+Saturn:
+	58 232 km
+	6.0001 Earths
+	1 429 000 000 km
+
+Uranus:
+	25 362 km	
+	3,9809 Earths
+	2 871 000 000 km
+
+Neptune:
+	24 622 km	
+	3.8647 Earths
+	4 495 000 000 km
+
+Pluto:
+	1,188.3±0.8 km
+	0.1868 Earths
+	5 900 000 000 km

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cg_tp.dir/main.cpp.o CMakeFiles/cg_tp.dir/parser.cpp.o CMakeFiles/cg_tp.dir/extractCoords.cpp.o CMakeFiles/cg_tp.dir/tinyxml2/tinyxml2.cpp.o CMakeFiles/cg_tp.dir/structs.cpp.o  -o cg_tp -framework OpenGL -framework OpenGL -framework GLUT -framework Cocoa 

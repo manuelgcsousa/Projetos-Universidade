@@ -1,0 +1,116 @@
+﻿@model IEnumerable<CleanicaFinal.Servico>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #1a1717;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Input */
+input[type=text], input[type=password], input[type=number] {
+    width: 300px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+/* Botão de Submeter */
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+</style>
+</head>
+<body>
+    <div align="left" id="mySidenav" class="sidenav">
+        <h1 style="color:red;" align="center">@ViewBag.username</h1>
+        <h5 style="color:red;" align="center">@ViewBag.email</h5>
+        <a href="@Url.Action("RegistarFuncForm", "Administrador", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Registar Funcionário</span></a>
+        <a href="@Url.Action("RemoverFuncForm", "Administrador", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Remover Funcionário</span></a>
+        <a href="@Url.Action("AltServicoForm", "Administrador", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Alterar Serviço</span></a>
+        <a href="@Url.Action("consFormSatisfacao", "Administrador", new { email = ViewBag.email, username = ViewBag.username }, Request.Url.Scheme)"><span>Formulários</span></a>
+        <a href="" onclick="closeNav()">Fechar</a> <br /> <br />
+        <a href="@Url.Action("Index", "Home", new { }, Request.Url.Scheme)"><span>Terminar Sessão</span></a>
+    </div>
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+    <h1 align="center">Registar um novo funcionário</h1><br />
+    <div align="center">
+        @using (Html.BeginForm("addFuncionario", "Administrador", new { email = ViewBag.email, username = ViewBag.username }, FormMethod.Post))
+        {
+            @Html.ValidationSummary(true)
+        <fieldset>
+            Email <br />           <input type="text" name="emailF" required /> <br />
+            Username <br />        <input type="text" name="usernameF" required /> <br />
+            Password <br />        <input type="password" name="passwordF" required /> <br />
+            Serviço <br />         <select name="servico" style="width:200px;">
+                @foreach (var item in Model)
+                {
+                    <option value=@item.id_servico>@Html.DisplayFor(modelItem => item.nome)</option>
+                }
+                                   </select> <br /> <br />
+            Cartão Cidadão <br />  <input type="number" name="cc" required /> <br />
+            Telemóvel <br />       <input type="number" name="telemovel" required /> <br />
+            IBAN <br />            <input type="text" name="IBAN" required /> <br />
+            Data Nascimento <br /> <input type="text" name="dataNasc" placeholder="dd-mm-aaa hh:mm:ss" required /> <br />
+            Morada <br />          <input type="text" name="morada" required /> <br />
+        </fieldset>
+            <input type="submit" value="Inserir" />
+        }
+    </div>
+</body>
+</html>
+
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "300px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+</script>

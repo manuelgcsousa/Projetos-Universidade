@@ -1,0 +1,85 @@
+<scene>
+	<group>
+        <translate Z="6" />
+        <models>
+            <model file="sphere.3d" /> <!-- Earth -->
+        </models>
+        <group>
+            <translate Z="10" />
+            <scale X="0.38" Y="0.38" Z="0.38" />
+            <models>
+                <model file="sphere.3d" /> <!-- Mercury -->
+            </models>
+        </group>
+        <group>
+            <translate Z="4.5" />
+            <scale X="0.9" Y="0.9" Z="0.9" />
+            <models>
+                <model file="sphere.3d" /> <!-- Venus -->
+            </models>
+        </group>
+        <group>
+            <translate Z="-6" />
+            <scale X="0.53" Y="0.53" Z="0.53" />
+            <models>
+                <model file="sphere.3d" /> <!-- Mars -->
+            </models>
+        </group>
+        <group>
+            <translate Z="-18" />
+            <scale X="5.5" Y="5.5" Z="5.5" />
+            <models>
+                <model file="sphere.3d" /> <!-- Jupiter -->
+            </models>
+            <group>
+                <translate Y="1.3" />
+                <scale X="0.15" Y="0.15" Z="0.15" />
+                <models>
+                    <model file="sphere.3d" />
+                </models>
+                <group>
+                    <translate X="8.67" Y="-8.67"/>
+                    <scale X="0.75" Y="0.75" Z="0.75" />
+                    <models>
+                        <model file="sphere.3d" />
+                    </models>
+                </group>
+            </group>
+        </group>
+        <group>
+            <translate Z="-42" />
+            <scale X="3.0" Y="3.0" Z="3.0" />
+            <models>
+                <model file="sphere.3d" /> <!-- Saturn -->
+            </models>
+        </group>
+        <group>
+            <translate Z="-65" />
+            <scale X="1.99" Y="1.99" Z="1.99" />
+            <models>
+                <model file="sphere.3d" /> <!-- Uranus -->
+            </models>
+        </group>
+        <group>
+            <translate Z="-90" />
+            <scale X="1.93" Y="1.93" Z="1.93" />
+            <models>
+                <model file="sphere.3d" /> <!-- Neptune -->
+            </models>
+        </group>
+        <group>
+            <translate Z="-100" />
+            <scale X="0.18" Y="0.18" Z="0.18" />
+            <models>
+                <model file="sphere.3d" /> <!-- Pluto -->
+            </models>
+        </group>
+    </group>
+    <group>
+        <translate Z="30" />
+        <scale X="10" Y="10" Z="10" />
+        <models>
+            <model file="sphere.3d" /> <!-- Sun -->
+        </models>
+    </group>
+</scene>

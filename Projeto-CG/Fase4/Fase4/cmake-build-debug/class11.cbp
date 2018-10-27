@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="class11"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="generator">
+				<Option output="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/headers"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 generator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="generator/fast">
+				<Option output="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/generator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/headers"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 generator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class11">
+				<Option output="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/class11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/headers"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 class11"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="class11/fast">
+				<Option output="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/class11" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/IL"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/headers"/>
+					<Add directory="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 class11/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/david/Área\ de\ Trabalho/CG-TP-4/CG-TP-4/Fase4/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/generator.cpp">
+			<Option target="generator"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/catmull.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/extractCoords.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/main.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/parser.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/src/structs.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2/tinyxml2.cpp">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/tinyxml2/tinyxml2.h">
+			<Option target="class11"/>
+		</Unit>
+		<Unit filename="/home/david/Área de Trabalho/CG-TP-4/CG-TP-4/Fase4/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

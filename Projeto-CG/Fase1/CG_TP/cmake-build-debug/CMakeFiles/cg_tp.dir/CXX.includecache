@@ -1,0 +1,126 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/extractCoords.h
+iostream
+-
+fstream
+-
+vector
+-
+tuple
+-
+
+../headers/parser.h
+iostream
+-
+tinyxml2.h
+../headers/tinyxml2.h
+string.h
+-
+
+../tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/extractCoords.cpp
+extractCoords.h
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/extractCoords.h
+
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/main.cpp
+GLUT/glut.h
+-
+GL/glut.h
+-
+math.h
+-
+stdio.h
+-
+vector
+-
+tuple
+-
+parser.h
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/parser.h
+extractCoords.h
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/extractCoords.h
+
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/parser.cpp
+parser.h
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/parser.h
+
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/tinyxml2/tinyxml2.cpp
+tinyxml2.h
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/tinyxml2/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+/home/carlos/Downloads/TrabalhoCG-Grupo 27/CG_TP/tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

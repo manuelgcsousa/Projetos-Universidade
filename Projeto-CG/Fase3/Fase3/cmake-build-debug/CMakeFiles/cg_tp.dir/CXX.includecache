@@ -1,0 +1,158 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/extractCoords.h
+iostream
+-
+fstream
+-
+tuple
+-
+cfloat
+-
+structs.h
+../headers/structs.h
+
+../headers/parser.h
+iostream
+-
+string.h
+-
+tinyxml2.h
+../headers/tinyxml2.h
+structs.h
+../headers/structs.h
+
+../headers/structs.h
+iostream
+-
+vector
+-
+tuple
+-
+string.h
+-
+
+../tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/extractCoords.cpp
+extractCoords.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/extractCoords.h
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/main.cpp
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+vector
+-
+GLUT/glut.h
+-
+GL/glew.h
+-
+GL/glut.h
+-
+iostream
+-
+math.h
+-
+stdio.h
+-
+vector
+-
+tuple
+-
+structs.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/structs.h
+parser.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/parser.h
+extractCoords.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/extractCoords.h
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/parser.cpp
+parser.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/parser.h
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/structs.cpp
+structs.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/structs.h
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/tinyxml2/tinyxml2.cpp
+tinyxml2.h
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/tinyxml2/tinyxml2.h
+new
+-
+stddef.h
+-
+stdarg.h
+-
+cstddef
+-
+cstdarg
+-
+
+/Users/gcsousa/CLionProjects/Computação Gráfica/CG-TP-3/Fase3/tinyxml2/tinyxml2.h
+ctype.h
+-
+limits.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stddef.h
+-
+cctype
+-
+climits
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+stdint.h
+-
+android/log.h
+-
+assert.h
+-
+

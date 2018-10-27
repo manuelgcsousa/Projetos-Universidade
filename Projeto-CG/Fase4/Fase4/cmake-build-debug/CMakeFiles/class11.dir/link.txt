@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/class11.dir/src/main.cpp.o CMakeFiles/class11.dir/src/parser.cpp.o CMakeFiles/class11.dir/src/extractCoords.cpp.o CMakeFiles/class11.dir/tinyxml2/tinyxml2.cpp.o CMakeFiles/class11.dir/src/structs.cpp.o CMakeFiles/class11.dir/src/catmull.cpp.o  -o class11 -lGLEW -lIL -lGLU -lGL -lglut -lXmu -lXi 

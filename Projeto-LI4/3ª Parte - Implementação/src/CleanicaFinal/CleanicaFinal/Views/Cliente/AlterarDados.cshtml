@@ -1,0 +1,110 @@
+﻿@model IEnumerable<CleanicaFinal.Cliente>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+    font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #4191f3;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+/* Input */
+input[type=text], input[type=password], input[type=number] {
+    width: 300px;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+/* Botão de Submeter */
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+</style>
+</head>
+<body>
+    <div align="left" id="mySidenav" class="sidenav">
+        <h1 style="color:red;" align="center">@ViewBag.username</h1>
+        <h5 style="color:red;" align="center">@ViewBag.email</h5>
+        <a href="@Url.Action("Index", "Cliente" , new { email=ViewBag.email, username=ViewBag.username, info="Home" }, Request.Url.Scheme)"><span>Home</span></a>
+        <a href="@Url.Action("GetServicos", "Cliente" , new { email=ViewBag.email, username=ViewBag.username }, Request.Url.Scheme)"><span>Serviços</span></a>
+        <a href="@Url.Action("TarefasPendentes", "Cliente" , new { email=ViewBag.email, username=ViewBag.username }, Request.Url.Scheme)"><span>Tarefas Pendentes</span></a>
+        <a href="@Url.Action("AlterarDados", "Cliente" , new { email=ViewBag.email, username=ViewBag.username }, Request.Url.Scheme)"><span>Alterar Dados</span></a>
+        <a href="" onclick="closeNav()">Fechar</a> <br /> <br />
+        <a href="@Url.Action("Index", "Home", new { }, Request.Url.Scheme)"><span>Terminar Sessão</span></a>
+    </div>
+    <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776;</span>
+    <h3 align="center">Altere os Seus Dados</h3>
+
+    @foreach (var item in Model)
+    {
+        <div align="center">
+            @using (Html.BeginForm("AlteraDadosCliente", "Cliente", new { email = ViewBag.email, username = ViewBag.username }, FormMethod.Post))
+            {
+                @Html.ValidationSummary(true)
+                <fieldset>
+                    Username  <br />  <input type="text" name="username" value=@ViewBag.username required /> <br />
+                    Password  <br />  <input type="password" name="password" value=@ViewBag.password required /> <br />
+                    Morada    <br />  <input type="text" name="morada" value=@item.morada required /> <br />
+                    Telemóvel <br />  <input type="number" name="telemovel" value=@item.telemovel required /> <br />
+                </fieldset>
+                <input type="submit" value="Alterar" />
+            }
+        </div>
+    }
+
+</body>
+</html>
+
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "300px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+</script>
