@@ -1,0 +1,90 @@
+﻿
+CREATE (Leão:Animal {nome: 'Joao', especie: 'Panthera leo', genero: 'M', DataUltimaRefeicao: 0})
+CREATE (Orca:Animal {nome: 'Oscar', especie: 'Orcinus orca', genero: 'M', DataUltimaRefeicao: '2017-11-24 22:36:12'})
+CREATE (Leopardo:Animal {nome: 'Ricardo', especie: 'Panthera Pardus', genero: 'M', DataUltimaRefeicao: '2017-11-25 11:21:53'})
+CREATE (Baleia:Animal {nome: 'Napoleão', especie: 'Balaenoptera physalus', genero: 'M', DataUltimaRefeicao: '0'})
+CREATE (Burro:Animal {nome: 'Paula', especie: 'Equus asinus', genero: 'F', DataUltimaRefeicao: '0'})
+CREATE (Kangaroo:Animal {nome: 'Kika', especie: 'Macropus rufus', genero: 'F', DataUltimaRefeicao: '2017-11-23 16:45:21'})
+CREATE (Chimpazé:Animal {nome: 'Laila', especie: 'Pan troglodytes', genero: 'F', DataUltimaRefeicao: '2017-11-23 16:45:21'})
+CREATE (Elefante:Animal {nome: 'Maria', especie: 'Loxodonta africana', genero: 'F', DataUltimaRefeicao: '2017-11-25 07:43:54'})
+CREATE (Panda:Animal {nome: 'Eddy', especie: 'Ailuropoda melanoleuca', genero: 'M', DataUltimaRefeicao: '2017-11-23 12:48:32'})
+CREATE (Tubarão:Animal {nome: 'Lara', especie: 'Carcharodon carcharia', genero: 'F', DataUltimaRefeicao: 0})
+CREATE (Abelha:Animal {nome: 'Laila', especie: 'Apis mellifera', genero: 'F', DataUltimaRefeicao: 0})
+CREATE (Jacare:Animal {nome: 'Tomé', especie: 'Caiman crocodilus', genero: 'M', DataUltimaRefeicao: '2017-11-24 21:28:52'})
+CREATE (Girafa:Animal {nome: 'Susana', especie: 'Giraffa camelopardalis', genero:'F', DataUltimaRefeicao: 0})
+CREATE (Lontra:Animal {nome: 'Jorge', especie:'Lutra longicaudis', genero:'M', DataUltimaRefeicao: '2017-11-25 14:13:51'})
+CREATE (Camelo:Animal {nome: 'Areias', especie:'Struthio camelus', genero:'M', DataUltimaRefeicao: '2017-11-18 09:03:32'})
+
+CREATE (AndreM:Funcionario {idFuncionario: 1, nome: 'André Marques', salario: 250, cidade: 'Braga', detalhes: 'Tenões'})
+CREATE (MarianaF:Funcionario {idFuncionario: 2, nome: 'Mariana Fonte', salario: 2000, cidade: 'Porto', detalhes: 'Estádio do Dragão'})
+CREATE (FilipeS:Funcionario {idFuncionario: 3, nome: 'Filipe Sousa', salario: 9500, cidade: 'Braga', detalhes: 'Partes desconhecidas'})
+CREATE (NunoG:Funcionario {idFuncionario: 4, nome: 'Nuno Gonçalves', salario: 700, cidade: 'Lisboa', detalhes: 'Praça do Rato'})
+CREATE (RicardoM:Funcionario {idFuncionario: 5, nome: 'Ricardo Martins', salario: 1200, cidade: 'Vila Franca de Xira', detalhes: ''})
+CREATE (InesF:Funcionario {idFuncionario: 6, nome: 'Inês Ferreira', salario: 9500, cidade: 'Guimarães', detalhes: 'Partes desconhecidas'})
+
+CREATE (Frango:Alimento {nome: 'Frango', quantidade: 10, numero_Serie: '4312'})
+CREATE (Peixinhos:Alimento {nome: 'Peixinhos', quantidade: 230, numero_Serie: '2042'})
+CREATE (Frutos:Alimento {nome: 'Frutos', quantidade: 589, numero_Serie: '324'})
+CREATE (Bamboo:Alimento {nome: 'Bamboo', quantidade: 20, numero_Serie: '1324'})
+CREATE (Atum:Alimento {nome: 'Atum', quantidade: 1000, numero_Serie: '624'})
+CREATE (Palha:Alimento {nome: 'Palha', quantidade: 878, numero_Serie: '2138'})
+
+CREATE (Jaula:Espaco {tipo: 'Jaula', tamanho: 'G', quantidade: 9, idEspaco: '1'})
+CREATE (Aquario:Espaco {tipo:'Aquario', tamanho: 'P', quantidade: 20, idEspaco: '2'})
+CREATE (Jaula2:Espaco {tipo: 'Jaula', tamanho: 'M', quantidade: 4, idEspaco: '3'})
+CREATE (Ilha:Espaco {tipo: 'Ilha', tamanho: 'M', quantidade: 10, idEspaco: '4'})
+
+CREATE (Andre1:Contacto {telemovel: 911121121})
+CREATE (Mariana1:Contacto {telemovel: 962345678})
+CREATE (Filipe1:Contacto {telemovel: 913323321})
+CREATE (Nuno1:Contacto {telemovel: 934442454})
+CREATE (Andre2:Contacto {telemovel: 916231524})
+CREATE (Ricardo1:Contacto {telemovel: 932136555})
+CREATE (Ines1:Contacto {telemovel: 917646664})
+
+CREATE
+  (Orca)-[:Come {quantidade: 4}]->(Frango),
+  (Leopardo)-[:Come {quantidade: 26}]->(Atum),
+  (Kangaroo)-[:Come {quantidade: 589}]->(Frutos),
+  (Elefante)-[:Come {quantidade: 17}]->(Bamboo),
+  (Panda)-[:Come {quantidade: 13}]->(Atum),
+  (Jacare)-[:Come {quantidade: 21}]->(Atum),
+  (Lontra)-[:Come {quantidade: 10}]->(Frutos),
+  (Camelo)-[:Come {quantidade: 56}]->(Palha)
+
+CREATE
+  (AndreM)-[:Possui]->(Andre1),
+  (MarianaF)-[:Possui]->(Mariana1),
+  (FilipeS)-[:Possui]->(Filipe1),
+  (NunoG)-[:Possui]->(Nuno1),
+  (AndreM)-[:Possui]->(Andre2),
+  (RicardoM)-[:Possui]->(Ricardo1),
+  (InesF)-[:Possui]->(Ines1)
+
+CREATE
+  (Leão)-[:Vive]->(Jaula),
+  (Orca)-[:Vive]->(Aquario),
+  (Leopardo)-[:Vive]->(Jaula),
+  (Baleia)-[:Vive]->(Aquario),
+  (Burro)-[:Vive]->(Jaula),
+  (Kangaroo)-[:Vive]->(Jaula2),
+  (Chimpazé)-[:Vive]->(Jaula),
+  (Elefante)-[:Vive]->(Jaula),
+  (Panda)-[:Vive]->(Jaula),
+  (Tubarão)-[:Vive]->(Aquario),
+  (Abelha)-[:Vive]->(Jaula),
+  (Jacaré)-[:Vive]->(Ilha),
+  (Girafa)-[:Vive]->(Jaula),
+  (Lontra)-[:Vive]->(Ilha),
+  (Camelo)-[:Vive]->(Jaula2)
+
+CREATE
+  (AndreM)-[:Fornece]->(Frango),
+  (MarianaF)-[:Fornece]->(Frango),
+  (FilipeS)-[:Fornece]->(Peixinhos),
+  (FilipeS)-[:Fornece]->(Frutos),
+  (NunoG)-[:Fornece]->(Bamboo),
+  (NunoG)-[:Fornece]->(Palha),
+  (RicardoM)-[:Fornece]->(Atum),
+  (RicardoM)-[:Fornece]->(Frango),
+  (InesF)-[:Fornece]->(Atum)
