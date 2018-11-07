@@ -14,8 +14,8 @@ import java.sql.SQLException;
  */
 public class Connect {
     
-    private static final String USERNAME = "root";
-    private static final String PASSWORD = "vacsmgcs1415";
+    private static final String USERNAME = "INSERT USERNAME";
+    private static final String PASSWORD = "INSERT PASSWORD";
     private static final String URL = "localhost";
     private static final String SCHEMA = "SGT_DB";
     
