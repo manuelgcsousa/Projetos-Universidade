@@ -574,8 +574,8 @@ namespace CleanicaFinal.Controllers
         
         private void GeraFatura(string email, string nif, DateTime date)
         {
-            string your_id = "cleanica@outlook.com";
-            string your_password = "LIlilili";
+            string your_id = "INSERT EMAIL";
+            string your_password = "INSERT PASSWORD";
             string body = "Ficou registado o seu pedido para " + date + ".\nNIF = " + nif + ".";
 
             try
